@@ -16,28 +16,8 @@
     "total_msrp": "81263.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "50 State Emissions, Special Color, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Advanced Package",
-    "created_at": "2024-09-13 11:25:32"
-  },
-  {
-    "dealer": "02053",
-    "vin": "5TFVC5DBXPX037368",
-    "year": "2023",
-    "vehicle": "tundra",
-    "model": "C",
-    "enginge": "i-FORCE MAX V6 Hybrid",
-    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "CrewMax",
-    "bed": "5.5ft",
-    "color": "Celestial Silver Metallic",
-    "interior": "Black and White Semi-Aniline Leather",
-    "base_msrp": "77645",
-    "total_msrp": "80317.0",
-    "availability_date": null,
-    "total_packages": 4,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Black Front Bumper Insert[installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-09-13 11:25:33"
+    "packages": "Special Color, Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Advanced Package",
+    "created_at": "2024-09-14 11:23:55"
   },
   {
     "dealer": "02053",
@@ -56,8 +36,8 @@
     "total_msrp": "80966.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Spray-On Bedliner[installed_msrp], , Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Black Front Bumper Insert[installed_msrp], Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2024-09-13 11:25:33"
+    "packages": "Black Front Bumper Insert[installed_msrp], Alloy Wheel Locks[installed_msrp], 50 State Emissions, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], ",
+    "created_at": "2024-09-14 11:23:55"
   },
   {
     "dealer": "02044",
@@ -76,8 +56,8 @@
     "total_msrp": "80317.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, Black Front Bumper Insert[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-09-13 11:25:35"
+    "packages": "Black Front Bumper Insert[installed_msrp], 50 State Emissions, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-09-14 11:23:57"
   },
   {
     "dealer": "27020",
@@ -96,8 +76,8 @@
     "total_msrp": "79767.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Security Package[installed_msrp], 50 State Emissions, Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-09-13 11:25:43"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions, Security Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Owner's Portfolio",
+    "created_at": "2024-09-14 11:24:04"
   },
   {
     "dealer": "27021",
@@ -116,8 +96,8 @@
     "total_msrp": "69658.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "1794 Grade Package, Owner's Portfolio, Special Color, Bed Extender[installed_msrp], Cargo Net - Exterior[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], PVM + BSM Outer Mirrors",
-    "created_at": "2024-09-13 11:25:44"
+    "packages": "Quick Charge Cable Package[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp], Owner's Portfolio, PVM + BSM Outer Mirrors, Special Color, 1794 Grade Package, Spray-On Bedliner[installed_msrp], Bed Extender[installed_msrp], Cargo Net - Exterior[installed_msrp], 50 State Emissions",
+    "created_at": "2024-09-14 11:24:06"
   },
   {
     "dealer": "04772",
@@ -136,8 +116,8 @@
     "total_msrp": "67088.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], , 50 State Emissions, Power Running Boards, Special Color",
-    "created_at": "2024-09-13 11:25:49"
+    "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, Power Running Boards, , Special Color, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-09-14 11:24:09"
   },
   {
     "dealer": "04094",
@@ -156,8 +136,8 @@
     "total_msrp": "61222.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "50 State Emissions, Limited Premium Package, BedStep®[installed_msrp], Spray-On Bedliner[installed_msrp], Off-Road Front Skid Plate, Owner's Portfolio, Door Edge Guards - Stainless Steel[installed_msrp], PVM + BSM Outer Mirrors, Dual Step Running Boards - Black[installed_msrp], JBL Premium Audio, Limited Power Package, TRD Off-Road Package, Panoramic Roof, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-09-13 11:26:02"
+    "packages": "PVM + BSM Outer Mirrors, All-Weather Floor Liner Package[installed_msrp], Panoramic Roof, Spray-On Bedliner[installed_msrp], 50 State Emissions, Owner's Portfolio, Dual Step Running Boards - Black[installed_msrp], Limited Power Package, BedStep®[installed_msrp], Door Edge Guards - Stainless Steel[installed_msrp], TRD Off-Road Package, JBL Premium Audio, Limited Premium Package, Off-Road Front Skid Plate",
+    "created_at": "2024-09-14 11:24:20"
   },
   {
     "dealer": "04094",
@@ -176,8 +156,8 @@
     "total_msrp": "71927.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Dash Camera[installed_msrp], Owner's Portfolio, 50 State Emissions, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Power Running Boards",
-    "created_at": "2024-09-13 11:26:02"
+    "packages": "Owner's Portfolio, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Dash Camera[installed_msrp], 50 State Emissions, Power Running Boards",
+    "created_at": "2024-09-14 11:24:20"
   },
   {
     "dealer": "04094",
@@ -196,8 +176,8 @@
     "total_msrp": "79767.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Owner's Portfolio, Security Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-09-13 11:26:02"
+    "packages": "Owner's Portfolio, Spray-On Bedliner[installed_msrp], Security Package[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp]",
+    "created_at": "2024-09-14 11:24:20"
   },
   {
     "dealer": "04013",
@@ -216,8 +196,8 @@
     "total_msrp": "68169.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 50 State Emissions, Power Running Boards, Special Color, Advanced Package, 1794 Grade Package, PVM + BSM Outer Mirrors",
-    "created_at": "2024-09-13 11:26:07"
+    "packages": "Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 50 State Emissions, Advanced Package, 1794 Grade Package, Special Color, PVM + BSM Outer Mirrors, Power Running Boards",
+    "created_at": "2024-09-14 11:24:24"
   },
   {
     "dealer": "04284",
@@ -236,8 +216,8 @@
     "total_msrp": "67755.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Mini Tie-Downs with Hooks[installed_msrp], Power Running Boards, 50 State Emissions, 1794 Grade Package, Emergency Assistance Kit[installed_msrp], , PVM + BSM Outer Mirrors, Advanced Package",
-    "created_at": "2024-09-13 11:26:12"
+    "packages": "PVM + BSM Outer Mirrors, Power Running Boards, 50 State Emissions, , Advanced Package, Emergency Assistance Kit[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp], 1794 Grade Package",
+    "created_at": "2024-09-14 11:24:30"
   },
   {
     "dealer": "04786",
@@ -256,8 +236,8 @@
     "total_msrp": "71212.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Mini Tie-Downs with Hooks[installed_msrp], Special Color, Tailgate Insert Badge - Black[installed_msrp], , All-Weather Floor Liner Package[installed_msrp], , 50 State Emissions, Power Running Boards",
-    "created_at": "2024-09-13 11:26:33"
+    "packages": ", , 50 State Emissions, Special Color, Tailgate Insert Badge - Black[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp], Power Running Boards, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-09-14 11:24:50"
   },
   {
     "dealer": "04143",
@@ -276,8 +256,8 @@
     "total_msrp": "79689.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "Quick Charge Cable Package[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-09-13 11:26:50"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-09-14 11:25:05"
   },
   {
     "dealer": "04563",
@@ -296,8 +276,8 @@
     "total_msrp": "78249.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], TRD Air Filter[installed_msrp], 50 State Emissions",
-    "created_at": "2024-09-13 11:26:58"
+    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], TRD Air Filter[installed_msrp]",
+    "created_at": "2024-09-14 11:25:15"
   },
   {
     "dealer": "04070",
@@ -317,7 +297,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "50 State Emissions, Owner's Portfolio",
-    "created_at": "2024-09-13 11:27:13"
+    "created_at": "2024-09-14 11:25:28"
   },
   {
     "dealer": "04039",
@@ -336,8 +316,8 @@
     "total_msrp": "71814.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "TRD Pro Grade Package, Spray-On Bedliner[installed_msrp], 50 State Emissions, Special Color, Owner's Portfolio",
-    "created_at": "2024-09-13 11:27:14"
+    "packages": "Spray-On Bedliner[installed_msrp], TRD Pro Grade Package, Owner's Portfolio, 50 State Emissions, Special Color",
+    "created_at": "2024-09-14 11:25:29"
   },
   {
     "dealer": "11001",
@@ -356,8 +336,8 @@
     "total_msrp": "51738.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], SR5 Premium Package, 50 State Emissions, Door Edge Guards - Stainless Steel[installed_msrp], Heated Leather-Wrapped Steering Wheel, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-09-13 11:27:23"
+    "packages": "Heated Leather-Wrapped Steering Wheel, SR5 Premium Package, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Door Edge Guards - Stainless Steel[installed_msrp]",
+    "created_at": "2024-09-14 11:25:37"
   },
   {
     "dealer": "43020",
@@ -376,8 +356,8 @@
     "total_msrp": "78938.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "50 State Emissions, Quick Charge Cable Package[installed_msrp], Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], ",
-    "created_at": "2024-09-13 11:27:30"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], , Spray-On Bedliner[installed_msrp]",
+    "created_at": "2024-09-14 11:25:43"
   },
   {
     "dealer": "43019",
@@ -396,8 +376,8 @@
     "total_msrp": "69672.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Spray-On Bedliner[installed_msrp], , All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, ",
-    "created_at": "2024-09-13 11:27:31"
+    "packages": ", 50 State Emissions, Spray-On Bedliner[installed_msrp], , All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-09-14 11:25:44"
   },
   {
     "dealer": "36103",
@@ -416,8 +396,8 @@
     "total_msrp": "80368.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions, Alloy Wheel Locks[installed_msrp], Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2024-09-13 11:27:41"
+    "packages": "Spray-On Bedliner[installed_msrp], Alloy Wheel Locks[installed_msrp], Quick Charge Cable Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-09-14 11:25:54"
   },
   {
     "dealer": "36103",
@@ -436,8 +416,8 @@
     "total_msrp": "81382.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": ", Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Dash Camera[installed_msrp], Console Safe[installed_msrp], 50 State Emissions, Owner's Portfolio, ",
-    "created_at": "2024-09-13 11:27:41"
+    "packages": "Dash Camera[installed_msrp], All-Weather Floor Liner Package[installed_msrp], , , Console Safe[installed_msrp], 50 State Emissions, Owner's Portfolio, Spray-On Bedliner[installed_msrp]",
+    "created_at": "2024-09-14 11:25:54"
   },
   {
     "dealer": "46093",
@@ -456,8 +436,8 @@
     "total_msrp": "71171.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], , Bed Extender[installed_msrp], 50 State Emissions, Power Running Boards, Advanced Package, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Courtesy Delivery Sticker, Dash Camera[installed_msrp], PVM + BSM Tow Mirrors, , Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-09-13 11:27:46"
+    "packages": "Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Courtesy Delivery Sticker, , 50 State Emissions, Spray-On Bedliner[installed_msrp], Power Running Boards, All-Weather Floor Liner Package[installed_msrp], Bed Extender[installed_msrp], Dash Camera[installed_msrp], , PVM + BSM Tow Mirrors, Advanced Package",
+    "created_at": "2024-09-14 11:25:58"
   },
   {
     "dealer": "46003",
@@ -476,8 +456,8 @@
     "total_msrp": "49834.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Owner's Portfolio, Heated Leather-Wrapped Steering Wheel, All-Weather Floor Liner Package[installed_msrp], SR5 Premium Package, 50 State Emissions",
-    "created_at": "2024-09-13 11:27:51"
+    "packages": "SR5 Premium Package, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, 50 State Emissions, Heated Leather-Wrapped Steering Wheel",
+    "created_at": "2024-09-14 11:26:03"
   },
   {
     "dealer": "46003",
@@ -496,8 +476,8 @@
     "total_msrp": "79619.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Special Color, Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-09-13 11:27:51"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, 50 State Emissions, Special Color",
+    "created_at": "2024-09-14 11:26:03"
   },
   {
     "dealer": "46081",
@@ -516,8 +496,8 @@
     "total_msrp": "51533.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "SR5 Premium Package, All-Weather Floor Liner Package[installed_msrp], Heated Leather-Wrapped Steering Wheel, Spray-On Bedliner[installed_msrp], 50 State Emissions",
-    "created_at": "2024-09-13 11:28:04"
+    "packages": "50 State Emissions, Spray-On Bedliner[installed_msrp], SR5 Premium Package, Heated Leather-Wrapped Steering Wheel, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-09-14 11:26:16"
   },
   {
     "dealer": "05067",
@@ -536,8 +516,8 @@
     "total_msrp": "64134.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Special Color",
-    "created_at": "2024-09-13 11:28:07"
+    "packages": "50 State Emissions, Special Color, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-09-14 11:26:18"
   },
   {
     "dealer": "05067",
@@ -557,7 +537,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "Special Color, 50 State Emissions, TRD Pro Grade Package",
-    "created_at": "2024-09-13 11:28:07"
+    "created_at": "2024-09-14 11:26:18"
   },
   {
     "dealer": "05067",
@@ -577,7 +557,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-09-13 11:28:07"
+    "created_at": "2024-09-14 11:26:18"
   },
   {
     "dealer": "05011",
@@ -596,8 +576,8 @@
     "total_msrp": "61102.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "JBL Premium Audio, All-Weather Floor Liners[installed_msrp], TRD Cast Aluminum Running Boards[installed_msrp], Tailgate Insert Badge - Black[installed_msrp], 50 State Emissions, TRD Off-Road Package, Panoramic Roof, Heated Leather Steering Wheel, Spray-On Bedliner[installed_msrp], Special Color",
-    "created_at": "2024-09-13 11:28:08"
+    "packages": "TRD Cast Aluminum Running Boards[installed_msrp], TRD Off-Road Package, Spray-On Bedliner[installed_msrp], Tailgate Insert Badge - Black[installed_msrp], 50 State Emissions, All-Weather Floor Liners[installed_msrp], JBL Premium Audio, Panoramic Roof, Heated Leather Steering Wheel, Special Color",
+    "created_at": "2024-09-14 11:26:20"
   },
   {
     "dealer": "05049",
@@ -616,8 +596,8 @@
     "total_msrp": "80218.0",
     "availability_date": null,
     "total_packages": 3,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions",
-    "created_at": "2024-09-13 11:28:16"
+    "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-09-14 11:26:28"
   },
   {
     "dealer": "05070",
@@ -636,8 +616,8 @@
     "total_msrp": "54168.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, Spray-On Bedliner[installed_msrp], Leather Steering Wheel, All-Weather Floor Liners[installed_msrp], TRD Off-Road Premium Package, TRD Convenience Package",
-    "created_at": "2024-09-13 11:28:16"
+    "packages": "Spray-On Bedliner[installed_msrp], TRD Off-Road Premium Package, All-Weather Floor Liners[installed_msrp], Leather Steering Wheel, 50 State Emissions, TRD Convenience Package",
+    "created_at": "2024-09-14 11:26:28"
   },
   {
     "dealer": "25067",
@@ -656,28 +636,8 @@
     "total_msrp": "66687.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Owner's Portfolio, 50 State Emissions, Tailgate Insert Badge - Black[installed_msrp], Power Running Boards, All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-09-13 11:28:26"
-  },
-  {
-    "dealer": "42298",
-    "vin": "5TFVC5DB0PX039470",
-    "year": "2023",
-    "vehicle": "tundra",
-    "model": "C",
-    "enginge": "i-FORCE MAX V6 Hybrid",
-    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "CrewMax",
-    "bed": "5.5ft",
-    "color": "Blueprint",
-    "interior": "Black and White Semi-Aniline Leather",
-    "base_msrp": "77645",
-    "total_msrp": "79540.0",
-    "availability_date": null,
-    "total_packages": 1,
-    "packages": "50 State Emissions",
-    "created_at": "2024-09-13 11:28:38"
+    "packages": "50 State Emissions, Spray-On Bedliner[installed_msrp], Owner's Portfolio, Tailgate Insert Badge - Black[installed_msrp], Power Running Boards, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-09-14 11:26:40"
   },
   {
     "dealer": "42298",
@@ -697,7 +657,27 @@
     "availability_date": null,
     "total_packages": 1,
     "packages": "50 State Emissions",
-    "created_at": "2024-09-13 11:28:38"
+    "created_at": "2024-09-14 11:26:53"
+  },
+  {
+    "dealer": "42298",
+    "vin": "5TFVC5DB0PX039470",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Blueprint",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "77645",
+    "total_msrp": "79540.0",
+    "availability_date": null,
+    "total_packages": 1,
+    "packages": "50 State Emissions",
+    "created_at": "2024-09-14 11:26:53"
   },
   {
     "dealer": "42344",
@@ -716,8 +696,8 @@
     "total_msrp": "52466.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Truck Sport Series Off-Road Special Edition Package - Black[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], 50 State Emissions, Center Console Safe[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:28:39"
+    "packages": "50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Truck Sport Series Off-Road Special Edition Package - Black[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:26:54"
   },
   {
     "dealer": "42344",
@@ -736,8 +716,8 @@
     "total_msrp": "67709.0",
     "availability_date": null,
     "total_packages": 16,
-    "packages": "Limited PVM Package, Center Console Safe[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors, 50 State Emissions, Limited Premium Package, Ball Mount[gst_global_lio_disclaimer], Panoramic Roof, JBL Premium Audio, Limited Power Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Heated Leather Steering Wheel",
-    "created_at": "2024-09-13 11:28:39"
+    "packages": "PVM + BSM Outer Mirrors, Catalytic Converter Shield[gst_global_lio_disclaimer], JBL Premium Audio, Vehicle Protection Package[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Heated Leather Steering Wheel, Limited PVM Package, Panoramic Roof, 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Limited Premium Package, Limited Power Package, Integrated Dashcam[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:26:54"
   },
   {
     "dealer": "42344",
@@ -756,8 +736,8 @@
     "total_msrp": "72011.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "1794 Grade Package, Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Power Running Boards, PVM + BSM Outer Mirrors, Ball Mount[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:28:39"
+    "packages": "50 State Emissions, Power Running Boards, Ball Mount[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 1794 Grade Package, Connectivity Kit[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors",
+    "created_at": "2024-09-14 11:26:54"
   },
   {
     "dealer": "42407",
@@ -776,8 +756,8 @@
     "total_msrp": "52705.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Charging and Connectivity Kit, 50 State Emissions, Catalytic Converter Shield[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:28:40"
+    "packages": "Ball Mount[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-09-14 11:26:55"
   },
   {
     "dealer": "42407",
@@ -796,8 +776,8 @@
     "total_msrp": "52705.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Catalytic Converter Shield[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Charging and Connectivity Kit, Ball Mount[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-09-13 11:28:40"
+    "packages": "Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Integrated Dashcam[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Charging and Connectivity Kit",
+    "created_at": "2024-09-14 11:26:55"
   },
   {
     "dealer": "42407",
@@ -816,8 +796,8 @@
     "total_msrp": "52834.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Ball Mount[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Charging and Connectivity Kit, 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:28:40"
+    "packages": "Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Charging and Connectivity Kit, Integrated Dashcam[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:26:55"
   },
   {
     "dealer": "42278",
@@ -836,8 +816,8 @@
     "total_msrp": "66263.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Power Running Boards, Tailgate Insert - Black[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Special Color, Advanced Package",
-    "created_at": "2024-09-13 11:28:40"
+    "packages": "Center Console Safe[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Power Running Boards, Premium Carpet Mat Set[gst_global_lio_disclaimer], 50 State Emissions, Special Color, Vehicle Protection Package[gst_global_lio_disclaimer], Advanced Package",
+    "created_at": "2024-09-14 11:26:55"
   },
   {
     "dealer": "42221",
@@ -857,7 +837,7 @@
     "availability_date": null,
     "total_packages": 1,
     "packages": "50 State Emissions",
-    "created_at": "2024-09-13 11:28:42"
+    "created_at": "2024-09-14 11:26:57"
   },
   {
     "dealer": "42296",
@@ -876,8 +856,8 @@
     "total_msrp": "71647.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "50 State Emissions, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Power Running Boards, 1794 Grade Package, PVM + BSM Outer Mirrors, Tailgate Insert - Black[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:28:44"
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Power Running Boards, PVM + BSM Outer Mirrors, 1794 Grade Package, Tailgate Insert - Black[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-09-14 11:26:59"
   },
   {
     "dealer": "42253",
@@ -896,8 +876,8 @@
     "total_msrp": "67622.0",
     "availability_date": null,
     "total_packages": 15,
-    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors, Catalytic Converter Shield[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Heated Leather Steering Wheel, Limited Power Package, Panoramic Roof, Limited PVM Package, Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, JBL Premium Audio, Limited Premium Package, Center Console Safe[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:28:49"
+    "packages": "JBL Premium Audio, Limited PVM Package, Catalytic Converter Shield[gst_global_lio_disclaimer], Panoramic Roof, Limited Power Package, Heated Leather Steering Wheel, 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Limited Premium Package, Connectivity Kit[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors",
+    "created_at": "2024-09-14 11:27:05"
   },
   {
     "dealer": "42347",
@@ -916,8 +896,8 @@
     "total_msrp": "52518.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Charging and Connectivity Kit, Integrated Dashcam[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-09-13 11:28:50"
+    "packages": "Integrated Dashcam[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Charging and Connectivity Kit, 50 State Emissions",
+    "created_at": "2024-09-14 11:27:06"
   },
   {
     "dealer": "42327",
@@ -937,7 +917,7 @@
     "availability_date": null,
     "total_packages": 0,
     "packages": "",
-    "created_at": "2024-09-13 11:28:51"
+    "created_at": "2024-09-14 11:27:07"
   },
   {
     "dealer": "42404",
@@ -956,8 +936,8 @@
     "total_msrp": "49647.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Charging and Connectivity Kit, Tailgate Insert - Black[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:28:54"
+    "packages": "Tailgate Insert - Black[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Charging and Connectivity Kit, 50 State Emissions",
+    "created_at": "2024-09-14 11:27:09"
   },
   {
     "dealer": "42216",
@@ -976,8 +956,8 @@
     "total_msrp": "53104.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Charging and Connectivity Kit, Ball Mount[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:02"
+    "packages": "Integrated Dashcam[gst_global_lio_disclaimer], Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:16"
   },
   {
     "dealer": "42336",
@@ -996,8 +976,8 @@
     "total_msrp": "52517.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:07"
+    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:21"
   },
   {
     "dealer": "42321",
@@ -1016,8 +996,8 @@
     "total_msrp": "59125.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "50 State Emissions, TRD 18\" Off-Road Wheel, SR5 Painted BSM Mirror, Off-Road Front Skid Plate, Premium Carpet Mat Set[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], TRD Off-Road Premium Package, Ball Mount[gst_global_lio_disclaimer], Charging and Connectivity Kit, SR5 Convenience Package, Leather-Wrapped Steering Wheel",
-    "created_at": "2024-09-13 11:29:08"
+    "packages": "SR5 Convenience Package, TRD Off-Road Premium Package, 50 State Emissions, Ball Mount[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Leather-Wrapped Steering Wheel, Premium Carpet Mat Set[gst_global_lio_disclaimer], SR5 Painted BSM Mirror, Off-Road Front Skid Plate, TRD 18\" Off-Road Wheel, Charging and Connectivity Kit",
+    "created_at": "2024-09-14 11:27:22"
   },
   {
     "dealer": "42095",
@@ -1036,8 +1016,8 @@
     "total_msrp": "50387.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Integrated Dashcam[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], Truck Sport Series Off-Road Special Edition Package - Black[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:11"
+    "packages": "Center Console Safe[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Truck Sport Series Off-Road Special Edition Package - Black[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:26"
   },
   {
     "dealer": "42095",
@@ -1056,8 +1036,8 @@
     "total_msrp": "53694.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": "SR5 Painted BSM Mirror, 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], TRD Sport Premium Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], SR5 Convenience Package, Leather-Wrapped Steering Wheel",
-    "created_at": "2024-09-13 11:29:11"
+    "packages": "SR5 Convenience Package, 50 State Emissions, SR5 Painted BSM Mirror, Premium Carpet Mat Set[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Leather-Wrapped Steering Wheel, Tailgate Insert - Black[gst_global_lio_disclaimer], TRD Sport Premium Package",
+    "created_at": "2024-09-14 11:27:26"
   },
   {
     "dealer": "42095",
@@ -1076,8 +1056,8 @@
     "total_msrp": "55092.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Vehicle Protection Premium Package[gst_global_lio_disclaimer], TRD 18\" Off-Road Wheel, 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], TRD Off-Road Premium Package, Off-Road Front Skid Plate, Leather-Wrapped Steering Wheel, SR5 Painted BSM Mirror, Catalytic Converter Shield[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], SR5 Convenience Package",
-    "created_at": "2024-09-13 11:29:11"
+    "packages": "SR5 Painted BSM Mirror, TRD 18\" Off-Road Wheel, Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Leather-Wrapped Steering Wheel, TRD Off-Road Premium Package, Tailgate Insert - Black[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Off-Road Front Skid Plate, SR5 Convenience Package, Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:26"
   },
   {
     "dealer": "42095",
@@ -1096,8 +1076,8 @@
     "total_msrp": "62244.0",
     "availability_date": null,
     "total_packages": 15,
-    "packages": "Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Panoramic Roof, Catalytic Converter Shield[gst_global_lio_disclaimer], Limited Premium Package, Heated Leather Steering Wheel, Premium Carpet Mat Set[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors, JBL Premium Audio, Ball Mount[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Limited PVM Package, Limited Power Package",
-    "created_at": "2024-09-13 11:29:11"
+    "packages": "Limited Power Package, Ball Mount[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], JBL Premium Audio, Heated Leather Steering Wheel, Limited Premium Package, 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors, Panoramic Roof, Limited PVM Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:26"
   },
   {
     "dealer": "42095",
@@ -1116,8 +1096,8 @@
     "total_msrp": "63514.0",
     "availability_date": null,
     "total_packages": 15,
-    "packages": "Ball Mount[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors, Premium Carpet Mat Set[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Heated Leather Steering Wheel, Panoramic Roof, Center Console Safe[gst_global_lio_disclaimer], 50 State Emissions, Limited Premium Package, Limited PVM Package, Connectivity Kit[gst_global_lio_disclaimer], Limited Power Package, Integrated Dashcam[gst_global_lio_disclaimer], JBL Premium Audio",
-    "created_at": "2024-09-13 11:29:11"
+    "packages": "JBL Premium Audio, Panoramic Roof, Heated Leather Steering Wheel, Catalytic Converter Shield[gst_global_lio_disclaimer], Limited Premium Package, Limited PVM Package, Center Console Safe[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Limited Power Package, PVM + BSM Outer Mirrors, Premium Carpet Mat Set[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:26"
   },
   {
     "dealer": "42095",
@@ -1136,8 +1116,8 @@
     "total_msrp": "70087.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Advanced Package, Power Running Boards, Center Console Safe[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Bed Extender[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:11"
+    "packages": "Advanced Package, 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Power Running Boards, Premium Carpet Mat Set[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:26"
   },
   {
     "dealer": "42282",
@@ -1156,8 +1136,8 @@
     "total_msrp": "58687.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Vehicle Protection Premium Package[gst_global_lio_disclaimer], Limited Power Package, Limited Premium Package, Limited PVM Package, Heated Leather Steering Wheel, Catalytic Converter Shield[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors, Panoramic Roof, Premium Carpet Mat Set[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], 50 State Emissions, JBL Premium Audio",
-    "created_at": "2024-09-13 11:29:12"
+    "packages": "Limited Premium Package, Panoramic Roof, Catalytic Converter Shield[gst_global_lio_disclaimer], JBL Premium Audio, Premium Carpet Mat Set[gst_global_lio_disclaimer], Heated Leather Steering Wheel, Vehicle Protection Premium Package[gst_global_lio_disclaimer], 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors, Limited Power Package, Limited PVM Package",
+    "created_at": "2024-09-14 11:27:26"
   },
   {
     "dealer": "42282",
@@ -1176,8 +1156,8 @@
     "total_msrp": "59062.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "SR5 Painted BSM Mirror, TRD 18\" Off-Road Wheel, Leather-Wrapped Steering Wheel, Premium Carpet Mat Set[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], TRD Off-Road Premium Package, Tailgate Insert - Black[gst_global_lio_disclaimer], 50 State Emissions, SR5 Convenience Package, Off-Road Front Skid Plate, Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:12"
+    "packages": "Off-Road Front Skid Plate, 50 State Emissions, SR5 Painted BSM Mirror, Tailgate Insert - Black[gst_global_lio_disclaimer], TRD 18\" Off-Road Wheel, Catalytic Converter Shield[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], SR5 Convenience Package, TRD Off-Road Premium Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], Leather-Wrapped Steering Wheel",
+    "created_at": "2024-09-14 11:27:26"
   },
   {
     "dealer": "42282",
@@ -1196,8 +1176,8 @@
     "total_msrp": "71733.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Tailgate Insert - Black[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], 50 State Emissions, Power Running Boards, Premium Carpet Mat Set[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:12"
+    "packages": "50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Power Running Boards, Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:26"
   },
   {
     "dealer": "42284",
@@ -1216,8 +1196,8 @@
     "total_msrp": "53541.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "50 State Emissions, Charging and Connectivity Kit, Integrated Dashcam[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:14"
+    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Charging and Connectivity Kit, Center Console Safe[gst_global_lio_disclaimer], 50 State Emissions, Catalytic Converter Shield[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:28"
   },
   {
     "dealer": "42315",
@@ -1236,28 +1216,8 @@
     "total_msrp": "72764.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], \"TRD Pro\" Tailgate Inserts[gst_global_lio_disclaimer], TRD Pro Grade Package, Integrated Dashcam[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-09-13 11:29:20"
-  },
-  {
-    "dealer": "42342",
-    "vin": "5TFJA5AB0PX028008",
-    "year": "2023",
-    "vehicle": "tundra",
-    "model": "limited",
-    "enginge": "i-FORCE V6",
-    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "Rear-Wheel Drive",
-    "cab": "CrewMax",
-    "bed": "5.5ft",
-    "color": "Army Green",
-    "interior": "Black SofTex® [softex]",
-    "base_msrp": "52615",
-    "total_msrp": "59758.0",
-    "availability_date": null,
-    "total_packages": 11,
-    "packages": "Limited PVM Package, PVM + BSM Outer Mirrors, Panoramic Roof, Vehicle Protection Premium Package[gst_global_lio_disclaimer], JBL Premium Audio, Heated Leather Steering Wheel, Catalytic Converter Shield[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Limited Premium Package, Limited Power Package, 50 State Emissions",
-    "created_at": "2024-09-13 11:29:22"
+    "packages": "Ball Mount[gst_global_lio_disclaimer], 50 State Emissions, Center Console Safe[gst_global_lio_disclaimer], \"TRD Pro\" Tailgate Inserts[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], TRD Pro Grade Package, Integrated Dashcam[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:35"
   },
   {
     "dealer": "42186",
@@ -1276,8 +1236,8 @@
     "total_msrp": "50726.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Truck Sport Series Off-Road Special Edition Package - Black[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:22"
+    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], 50 State Emissions, Truck Sport Series Off-Road Special Edition Package - Black[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:38"
   },
   {
     "dealer": "42186",
@@ -1296,8 +1256,8 @@
     "total_msrp": "59787.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Limited Premium Package, Heated Leather Steering Wheel, Panoramic Roof, 50 State Emissions, Catalytic Converter Shield[gst_global_lio_disclaimer], JBL Premium Audio, Premium Carpet Mat Set[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Limited PVM Package, Limited Power Package, PVM + BSM Outer Mirrors",
-    "created_at": "2024-09-13 11:29:22"
+    "packages": "PVM + BSM Outer Mirrors, Panoramic Roof, JBL Premium Audio, Limited Premium Package, Catalytic Converter Shield[gst_global_lio_disclaimer], Limited PVM Package, 50 State Emissions, Limited Power Package, Heated Leather Steering Wheel, Tailgate Insert - Black[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:38"
   },
   {
     "dealer": "42186",
@@ -1316,8 +1276,8 @@
     "total_msrp": "64488.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "Premium Carpet Mat Set[gst_global_lio_disclaimer], Limited PVM Package, Heated Leather Steering Wheel, 50 State Emissions, Limited Premium Package, Panoramic Roof, Tailgate Insert - Black[gst_global_lio_disclaimer], Limited Power Package, JBL Premium Audio, PVM + BSM Outer Mirrors, Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:22"
+    "packages": "JBL Premium Audio, 50 State Emissions, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Limited Power Package, Heated Leather Steering Wheel, Premium Carpet Mat Set[gst_global_lio_disclaimer], Limited Premium Package, Panoramic Roof, Limited PVM Package, Tailgate Insert - Black[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors",
+    "created_at": "2024-09-14 11:27:38"
   },
   {
     "dealer": "42305",
@@ -1336,8 +1296,8 @@
     "total_msrp": "50667.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Integrated Dashcam[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Charging and Connectivity Kit",
-    "created_at": "2024-09-13 11:29:25"
+    "packages": "Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-09-14 11:27:41"
   },
   {
     "dealer": "42305",
@@ -1356,8 +1316,8 @@
     "total_msrp": "58496.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Center Console Safe[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Limited Power Package, Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], 50 State Emissions, Panoramic Roof, Tailgate Insert - Black[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:25"
+    "packages": "50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Limited Power Package, Catalytic Converter Shield[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Panoramic Roof, Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:41"
   },
   {
     "dealer": "42254",
@@ -1376,8 +1336,8 @@
     "total_msrp": "77439.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Bed Extender[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Special Color, 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Advanced Package",
-    "created_at": "2024-09-13 11:29:30"
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Bed Extender[gst_global_lio_disclaimer], 50 State Emissions, Special Color, Advanced Package, Vehicle Protection Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:27:45"
   },
   {
     "dealer": "42161",
@@ -1396,8 +1356,8 @@
     "total_msrp": "59787.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Limited Premium Package, PVM + BSM Outer Mirrors, JBL Premium Audio, Limited PVM Package, Limited Power Package, Heated Leather Steering Wheel, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Panoramic Roof, Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:32"
+    "packages": "Limited Premium Package, JBL Premium Audio, Heated Leather Steering Wheel, Tailgate Insert - Black[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], 50 State Emissions, Limited PVM Package, Catalytic Converter Shield[gst_global_lio_disclaimer], Panoramic Roof, Limited Power Package, Vehicle Protection Premium Package[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors",
+    "created_at": "2024-09-14 11:27:46"
   },
   {
     "dealer": "42161",
@@ -1416,8 +1376,8 @@
     "total_msrp": "70913.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "TRD Pro Grade Package, Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, \"TRD Pro\" Tailgate Inserts[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:29:32"
+    "packages": "\"TRD Pro\" Tailgate Inserts[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], TRD Pro Grade Package",
+    "created_at": "2024-09-14 11:27:46"
   },
   {
     "dealer": "15059",
@@ -1436,8 +1396,8 @@
     "total_msrp": "80218.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Special Color, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-09-13 11:29:51"
+    "packages": "Spray-On Bedliner[installed_msrp], Special Color, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-09-14 11:28:05"
   },
   {
     "dealer": "40009",
@@ -1456,8 +1416,8 @@
     "total_msrp": "52104.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "SR5 Convenience Package, Door Edge Guards - Stainless Steel[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, SR5 BSM Outer Mirrors",
-    "created_at": "2024-09-13 11:29:58"
+    "packages": "50 State Emissions, SR5 Convenience Package, All-Weather Floor Liner Package[installed_msrp], SR5 BSM Outer Mirrors, Door Edge Guards - Stainless Steel[installed_msrp]",
+    "created_at": "2024-09-14 11:28:12"
   },
   {
     "dealer": "03074",
@@ -1476,8 +1436,8 @@
     "total_msrp": "59062.0",
     "availability_date": null,
     "total_packages": 11,
-    "packages": "TRD Off-Road Premium Package, Off-Road Front Skid Plate, Premium Carpet Mat Set[gst_global_lio_disclaimer], SR5 Convenience Package, Leather-Wrapped Steering Wheel, SR5 Painted BSM Mirror, Tailgate Insert - Black[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], 50 State Emissions, TRD 18\" Off-Road Wheel, Catalytic Converter Shield[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:30:14"
+    "packages": "Vehicle Protection Premium Package[gst_global_lio_disclaimer], 50 State Emissions, TRD Off-Road Premium Package, Off-Road Front Skid Plate, TRD 18\" Off-Road Wheel, SR5 Painted BSM Mirror, SR5 Convenience Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], Leather-Wrapped Steering Wheel, Catalytic Converter Shield[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:28:27"
   },
   {
     "dealer": "03074",
@@ -1496,8 +1456,8 @@
     "total_msrp": "71283.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": "Special Color, Dual Step Running Board -Black[gst_global_lio_disclaimer], 50 State Emissions, \"TRD Pro\" Tailgate Inserts[gst_global_lio_disclaimer], TRD Pro Grade Package",
-    "created_at": "2024-09-13 11:30:14"
+    "packages": "Special Color, TRD Pro Grade Package, \"TRD Pro\" Tailgate Inserts[gst_global_lio_disclaimer], 50 State Emissions, Dual Step Running Board -Black[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:28:27"
   },
   {
     "dealer": "03066",
@@ -1516,8 +1476,8 @@
     "total_msrp": "50337.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Truck Sport Series Off-Road Special Edition Package - Black[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-09-13 11:30:24"
+    "packages": "Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], 50 State Emissions, Truck Sport Series Off-Road Special Edition Package - Black[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:28:36"
   },
   {
     "dealer": "14048",
@@ -1536,8 +1496,8 @@
     "total_msrp": "80613.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "Emergency Assistance Kit[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], , TRD Air Filter[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2024-09-13 11:30:27"
+    "packages": "Emergency Assistance Kit[installed_msrp], Spray-On Bedliner[installed_msrp], TRD Air Filter[installed_msrp], Quick Charge Cable Package[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], ",
+    "created_at": "2024-09-14 11:28:39"
   },
   {
     "dealer": "14017",
@@ -1556,8 +1516,8 @@
     "total_msrp": "53918.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": ", SR5 BSM Outer Mirrors, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], SR5 Convenience Package, Spray-On Bedliner[installed_msrp], Owner's Portfolio, Emergency Assistance Kit[installed_msrp]",
-    "created_at": "2024-09-13 11:30:28"
+    "packages": "Quick Charge Cable Package[installed_msrp], , Owner's Portfolio, Emergency Assistance Kit[installed_msrp], SR5 Convenience Package, All-Weather Floor Liner Package[installed_msrp], SR5 BSM Outer Mirrors, 50 State Emissions, Spray-On Bedliner[installed_msrp]",
+    "created_at": "2024-09-14 11:28:39"
   },
   {
     "dealer": "14011",
@@ -1576,8 +1536,8 @@
     "total_msrp": "71354.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, OFFROAD FRONT SKID PLATE, TRD Off-Road Package, , Spray-On Bedliner[installed_msrp], PVM + BSM Outer Mirrors",
-    "created_at": "2024-09-13 11:30:31"
+    "packages": "TRD Off-Road Package, PVM + BSM Outer Mirrors, OFFROAD FRONT SKID PLATE, , Spray-On Bedliner[installed_msrp], 50 State Emissions",
+    "created_at": "2024-09-14 11:28:43"
   },
   {
     "dealer": "17070",
@@ -1596,8 +1556,8 @@
     "total_msrp": "80725.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, Ball Mount[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-09-13 11:30:46"
+    "packages": "Ball Mount[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-09-14 11:28:56"
   },
   {
     "dealer": "17068",
@@ -1616,8 +1576,8 @@
     "total_msrp": "73575.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Ball Mount[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, \"TRD Pro\" Tailgate Inserts[gst_global_lio_disclaimer], TRD Pro Grade Package",
-    "created_at": "2024-09-13 11:30:48"
+    "packages": "\"TRD Pro\" Tailgate Inserts[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], TRD Pro Grade Package, 50 State Emissions, Ball Mount[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:28:59"
   },
   {
     "dealer": "17057",
@@ -1636,8 +1596,8 @@
     "total_msrp": "67556.0",
     "availability_date": null,
     "total_packages": 15,
-    "packages": "Heated Leather Steering Wheel, Connectivity Kit[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Limited Power Package, Limited Premium Package, Catalytic Converter Shield[gst_global_lio_disclaimer], JBL Premium Audio, 50 State Emissions, Limited PVM Package, PVM + BSM Outer Mirrors, Panoramic Roof",
-    "created_at": "2024-09-13 11:30:50"
+    "packages": "Panoramic Roof, 50 State Emissions, PVM + BSM Outer Mirrors, Catalytic Converter Shield[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Limited Premium Package, Limited PVM Package, Heated Leather Steering Wheel, Limited Power Package, JBL Premium Audio, Premium Carpet Mat Set[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer]",
+    "created_at": "2024-09-14 11:29:00"
   },
   {
     "dealer": "24052",
@@ -1656,8 +1616,8 @@
     "total_msrp": "80263.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": ", All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp]",
-    "created_at": "2024-09-13 11:31:13"
+    "packages": "Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], , All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-09-14 11:29:22"
   },
   {
     "dealer": "24078",
@@ -1676,8 +1636,8 @@
     "total_msrp": "51058.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "SR5 Convenience Package, Emergency Assistance Kit[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], SR5 BSM Outer Mirrors, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-09-13 11:31:14"
+    "packages": "Emergency Assistance Kit[installed_msrp], 50 State Emissions, Spray-On Bedliner[installed_msrp], SR5 BSM Outer Mirrors, All-Weather Floor Liner Package[installed_msrp], SR5 Convenience Package",
+    "created_at": "2024-09-14 11:29:24"
   },
   {
     "dealer": "10126",
@@ -1697,7 +1657,7 @@
     "availability_date": "Now",
     "total_packages": 8,
     "packages": "TOYOGUARD Platinum [set_global_lio_disclaimer], Spray-in Bedliner [set_global_lio_disclaimer], SmartLED Ambient Lighting [set_global_lio_disclaimer], Special Color, Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-09-13 11:31:34"
+    "created_at": "2024-09-14 11:29:42"
   },
   {
     "dealer": "09226",
@@ -1717,7 +1677,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "20\" Nitto Ridge Grappler All-Terrain Tire Upgrade [set_global_lio_disclaimer], Advanced Package -, Power running boards and power bed step, TOYOGUARD Platinum [set_global_lio_disclaimer], Spray-in Bedliner [set_global_lio_disclaimer], SmartLED Ambient Lighting [set_global_lio_disclaimer], Center Console Safe [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-09-13 11:32:16"
+    "created_at": "2024-09-14 11:30:20"
   },
   {
     "dealer": "09240",
@@ -1737,7 +1697,7 @@
     "availability_date": "Now",
     "total_packages": 20,
     "packages": "XP Trail [set_global_lio_disclaimer], TRD Off-Road Package -, Power tilt/slide panoramic roof, Paint Protection Film - Hood & Door Package [set_global_lio_disclaimer], TOYOGUARD Platinum [set_global_lio_disclaimer], Spray-in Bedliner [set_global_lio_disclaimer], 12-Speaker JBL Premium Audio, Bed Step [set_global_lio_disclaimer], Dashcam [set_global_lio_disclaimer], SmartLED Ambient Lighting [set_global_lio_disclaimer], Center Console Safe [set_global_lio_disclaimer], Limited Premium Package -, Limited Power Package -, All Weather Floor Mats [set_global_lio_disclaimer], PVM + BSM Tow Mirrors (black), Heated Leather Steering Wheel, 6-Gallons of Gas [set_global_lio_disclaimer], Off-Road Front Skid Plate, PDS - Company Cars [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-09-13 11:32:17"
+    "created_at": "2024-09-14 11:30:22"
   },
   {
     "dealer": "16051",
@@ -1756,8 +1716,8 @@
     "total_msrp": "69568.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "Dual Step Running Boards - Black[installed_msrp], Quick Charge Cable Package[installed_msrp], PVM + BSM Outer Mirrors, TRD Off-Road Package, BedStep®[installed_msrp], , 50 State Emissions, TRD Front Skid Plate, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-09-13 11:33:14"
+    "packages": ", Quick Charge Cable Package[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions, TRD Front Skid Plate, Dual Step Running Boards - Black[installed_msrp], BedStep®[installed_msrp], TRD Off-Road Package, PVM + BSM Outer Mirrors",
+    "created_at": "2024-09-14 11:31:18"
   },
   {
     "dealer": "41083",
@@ -1776,8 +1736,8 @@
     "total_msrp": "66818.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": ", Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Power Running Boards, Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2024-09-13 11:33:32"
+    "packages": ", 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], Quick Charge Cable Package[installed_msrp], Power Running Boards",
+    "created_at": "2024-09-14 11:31:35"
   },
   {
     "dealer": "16063",
@@ -1796,8 +1756,8 @@
     "total_msrp": "52198.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Leather-Wrapped Steering Wheel, TRD Off-Road Package, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Owner's Portfolio, Off-Road Front Skid Plate",
-    "created_at": "2024-09-13 11:33:33"
+    "packages": "Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, TRD Off-Road Package, Leather-Wrapped Steering Wheel, Off-Road Front Skid Plate",
+    "created_at": "2024-09-14 11:31:35"
   },
   {
     "dealer": "16063",
@@ -1816,8 +1776,8 @@
     "total_msrp": "52198.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "50 State Emissions, Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], TRD Off-Road Package, Off-Road Front Skid Plate, Leather-Wrapped Steering Wheel",
-    "created_at": "2024-09-13 11:33:33"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Leather-Wrapped Steering Wheel, Owner's Portfolio, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 50 State Emissions, TRD Off-Road Package, Off-Road Front Skid Plate",
+    "created_at": "2024-09-14 11:31:35"
   },
   {
     "dealer": "16063",
@@ -1836,8 +1796,8 @@
     "total_msrp": "62886.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "Limited PVM Package, BedStep®[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Owner's Portfolio, Heated Leather Steering Wheel, PVM + BSM Outer Mirrors, Dual Step Running Boards - Black[installed_msrp], Limited Premium Package, Limited Power Package, All-Weather Floor Liner Package[installed_msrp], JBL Premium Audio, 50 State Emissions, Rear Air Suspension, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-09-13 11:33:33"
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Limited Power Package, BedStep®[installed_msrp], Limited Premium Package, Rear Air Suspension, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Limited PVM Package, Dual Step Running Boards - Black[installed_msrp], Owner's Portfolio, Spray-On Bedliner[installed_msrp], Heated Leather Steering Wheel, 50 State Emissions, PVM + BSM Outer Mirrors, JBL Premium Audio",
+    "created_at": "2024-09-14 11:31:35"
   },
   {
     "dealer": "41021",
@@ -1856,8 +1816,8 @@
     "total_msrp": "63723.0",
     "availability_date": null,
     "total_packages": 23,
-    "packages": "Quick Charge Cable Package[installed_msrp], TRD Air Filter[installed_msrp], Courtesy Delivery Sticker, Bed Storage Boxes - Swing Out[installed_msrp], Dash Camera[installed_msrp], Heated Leather-Wrapped Steering Wheel, All-Weather Floor Liner Package[installed_msrp], Advanced Technology Package, Door Edge Guards - Stainless Steel[installed_msrp], TRD Sport Premium Package, SR5 PVM + BSM Tow Mirrors, Mini Tie-Downs with Hooks[installed_msrp], Coin Holder/Ashtray Cup[installed_msrp], 50 State Emissions, Tailgate Insert Badge - Black[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], , Universal Tablet Holder[installed_msrp], Console Safe[installed_msrp], Premium Audio Package, Cargo Net - Exterior[installed_msrp], Cargo Tote[installed_msrp], Emergency Assistance Kit[installed_msrp]",
-    "created_at": "2024-09-13 11:33:38"
+    "packages": "TRD Sport Premium Package, , Advanced Technology Package, SR5 PVM + BSM Tow Mirrors, Door Edge Guards - Stainless Steel[installed_msrp], Cargo Net - Exterior[installed_msrp], Premium Audio Package, Heated Leather-Wrapped Steering Wheel, Bed Storage Boxes - Swing Out[installed_msrp], Console Safe[installed_msrp], Tailgate Insert Badge - Black[installed_msrp], Universal Tablet Holder[installed_msrp], 50 State Emissions, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Dash Camera[installed_msrp], Quick Charge Cable Package[installed_msrp], Courtesy Delivery Sticker, Mini Tie-Downs with Hooks[installed_msrp], Coin Holder/Ashtray Cup[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Emergency Assistance Kit[installed_msrp], Cargo Tote[installed_msrp], TRD Air Filter[installed_msrp]",
+    "created_at": "2024-09-14 11:31:42"
   },
   {
     "dealer": "19021",
@@ -1876,8 +1836,8 @@
     "total_msrp": "81468.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": ", All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Spray-On Bedliner[installed_msrp], 50 State Emissions, Advanced Package, Special Color",
-    "created_at": "2024-09-13 11:34:12"
+    "packages": "50 State Emissions, Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], , Spray-On Bedliner[installed_msrp], Advanced Package, Special Color",
+    "created_at": "2024-09-14 11:32:16"
   },
   {
     "dealer": "45074",
@@ -1896,8 +1856,8 @@
     "total_msrp": "79597.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "Quick Charge Cable Package[installed_msrp], Emergency Assistance Kit[installed_msrp], Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Owner's Portfolio, , 50 State Emissions, ",
-    "created_at": "2024-09-13 11:34:14"
+    "packages": "50 State Emissions, , Spray-On Bedliner[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Emergency Assistance Kit[installed_msrp], Owner's Portfolio, , Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp]",
+    "created_at": "2024-09-14 11:32:18"
   },
   {
     "dealer": "45045",
@@ -1916,8 +1876,8 @@
     "total_msrp": "62871.0",
     "availability_date": null,
     "total_packages": 18,
-    "packages": "Door Edge Guards - Stainless Steel[installed_msrp], Limited PVM Package, PVM + BSM Outer Mirrors, Limited Premium Package, Spray-On Bedliner[installed_msrp], Dual Step Running Boards - Silver[installed_msrp], Panoramic Roof, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Quick Charge Cable Package[installed_msrp], JBL Premium Audio, Exhaust Tip - Chrome[installed_msrp], Heated Leather Steering Wheel, Limited Power Package, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, BedStep®[installed_msrp], Owner's Portfolio, Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2024-09-13 11:34:26"
+    "packages": "Door Edge Guards - Stainless Steel[installed_msrp], Alloy Wheel Locks[installed_msrp], Exhaust Tip - Chrome[installed_msrp], Heated Leather Steering Wheel, Panoramic Roof, Dual Step Running Boards - Silver[installed_msrp], 50 State Emissions, Limited PVM Package, All-Weather Floor Liner Package[installed_msrp], Limited Premium Package, JBL Premium Audio, PVM + BSM Outer Mirrors, Limited Power Package, Spray-On Bedliner[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Owner's Portfolio, BedStep®[installed_msrp], Quick Charge Cable Package[installed_msrp]",
+    "created_at": "2024-09-14 11:32:31"
   },
   {
     "dealer": "07008",
@@ -1936,8 +1896,8 @@
     "total_msrp": "63592.0",
     "availability_date": null,
     "total_packages": 17,
-    "packages": "Alloy Wheel Locks[installed_msrp], TRD 20\" Off-Road Wheel, TRD Front Skid Plate, Premium Audio Package, Spray-On Bedliner[installed_msrp], TRD Off-Road Premium Package, Heated Leather-Wrapped Steering Wheel, Dual Step Running Boards - Black[installed_msrp], PVM + BSM Outer Mirrors, BedStep®[installed_msrp], Door Edge Guards - Stainless Steel[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Advanced Off-Road Technology Package, Quick Charge Cable Package[installed_msrp], Exhaust Tip - Chrome[installed_msrp], 50 State Emissions",
-    "created_at": "2024-09-13 11:34:39"
+    "packages": "TRD Front Skid Plate, PVM + BSM Outer Mirrors, Dual Step Running Boards - Black[installed_msrp], TRD Off-Road Premium Package, Spray-On Bedliner[installed_msrp], Heated Leather-Wrapped Steering Wheel, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], TRD 20\" Off-Road Wheel, Exhaust Tip - Chrome[installed_msrp], Premium Audio Package, Door Edge Guards - Stainless Steel[installed_msrp], Alloy Wheel Locks[installed_msrp], Owner's Portfolio, Advanced Off-Road Technology Package, Quick Charge Cable Package[installed_msrp], BedStep®[installed_msrp]",
+    "created_at": "2024-09-14 11:32:44"
   },
   {
     "dealer": "37188",
@@ -1956,8 +1916,8 @@
     "total_msrp": "70722.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, , All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp]",
-    "created_at": "2024-09-13 11:35:00"
+    "packages": "Owner's Portfolio, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], ",
+    "created_at": "2024-09-14 11:33:05"
   },
   {
     "dealer": "31121",
@@ -1976,8 +1936,8 @@
     "total_msrp": "77948.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], PVM + BSM Tow Mirrors, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-09-13 11:35:18"
+    "packages": "PVM + BSM Tow Mirrors, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp]",
+    "created_at": "2024-09-14 11:33:22"
   },
   {
     "dealer": "31076",
@@ -1996,8 +1956,8 @@
     "total_msrp": "79824.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": ", Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-09-13 11:35:26"
+    "packages": ", 50 State Emissions, Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-09-14 11:33:31"
   },
   {
     "dealer": "31171",
@@ -2016,8 +1976,8 @@
     "total_msrp": "81382.0",
     "availability_date": null,
     "total_packages": 8,
-    "packages": ", Owner's Portfolio, 50 State Emissions, Spray-On Bedliner[installed_msrp], , Console Safe[installed_msrp], Dash Camera[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-09-13 11:35:37"
+    "packages": ", Dash Camera[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Console Safe[installed_msrp], Spray-On Bedliner[installed_msrp], , 50 State Emissions, Owner's Portfolio",
+    "created_at": "2024-09-14 11:33:41"
   },
   {
     "dealer": "28036",
@@ -2036,8 +1996,8 @@
     "total_msrp": "60289.0",
     "availability_date": null,
     "total_packages": 12,
-    "packages": "Spray-On Bedliner[installed_msrp], Dual Step Running Boards - Black[installed_msrp], Alloy Wheel Locks[installed_msrp], Limited Premium Package, Spare Tire Lock[installed_msrp], PVM + BSM Outer Mirrors, Limited PVM Package, Heated Leather Steering Wheel, Quick Charge Cable Package[installed_msrp], JBL Premium Audio, Limited Power Package, 50 State Emissions",
-    "created_at": "2024-09-13 11:36:09"
+    "packages": "Limited PVM Package, Dual Step Running Boards - Black[installed_msrp], Spare Tire Lock[installed_msrp], Heated Leather Steering Wheel, Quick Charge Cable Package[installed_msrp], 50 State Emissions, PVM + BSM Outer Mirrors, Limited Premium Package, Spray-On Bedliner[installed_msrp], Limited Power Package, Alloy Wheel Locks[installed_msrp], JBL Premium Audio",
+    "created_at": "2024-09-14 11:34:12"
   },
   {
     "dealer": "18023",
@@ -2056,8 +2016,8 @@
     "total_msrp": "80264.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Special Color, Alloy Wheel Locks[installed_msrp], , Spray-On Bedliner[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2024-09-13 11:36:15"
+    "packages": ", Special Color, Quick Charge Cable Package[installed_msrp], Spray-On Bedliner[installed_msrp], Alloy Wheel Locks[installed_msrp], 50 State Emissions",
+    "created_at": "2024-09-14 11:34:18"
   },
   {
     "dealer": "20009",
@@ -2076,8 +2036,8 @@
     "total_msrp": "61343.0",
     "availability_date": null,
     "total_packages": 10,
-    "packages": "TRD Sport Premium Package, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], PVM + BSM Outer Mirrors, Alloy Wheel Locks[installed_msrp], Advanced Technology Package, Spare Tire Lock[installed_msrp], Heated Leather-Wrapped Steering Wheel, Premium Audio Package, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-09-13 11:36:18"
+    "packages": "50 State Emissions, Premium Audio Package, Spray-On Bedliner[installed_msrp], Heated Leather-Wrapped Steering Wheel, TRD Sport Premium Package, All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp], PVM + BSM Outer Mirrors, Advanced Technology Package, Spare Tire Lock[installed_msrp]",
+    "created_at": "2024-09-14 11:34:21"
   },
   {
     "dealer": "20102",
@@ -2096,8 +2056,8 @@
     "total_msrp": "76539.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, All Weather Floor Liners [installed_msrp], Advanced Package, Special Color",
-    "created_at": "2024-09-13 11:36:25"
+    "packages": "Advanced Package, All Weather Floor Liners [installed_msrp], 50 State Emissions, Special Color",
+    "created_at": "2024-09-14 11:34:29"
   },
   {
     "dealer": "20127",
@@ -2116,8 +2076,8 @@
     "total_msrp": "80264.0",
     "availability_date": null,
     "total_packages": 5,
-    "packages": ", Alloy Wheel Locks[installed_msrp], Quick Charge Cable Package[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions",
-    "created_at": "2024-09-13 11:36:29"
+    "packages": ", Spray-On Bedliner[installed_msrp], Quick Charge Cable Package[installed_msrp], 50 State Emissions, Alloy Wheel Locks[installed_msrp]",
+    "created_at": "2024-09-14 11:34:33"
   },
   {
     "dealer": "44013",
@@ -2136,8 +2096,8 @@
     "total_msrp": "54068.0",
     "availability_date": null,
     "total_packages": 9,
-    "packages": "50 State Emissions, Spare Tire Lock[installed_msrp], TRD Sport Package, SR5 Convenience Package, SR5 BSM Tow Mirrors, Heated Leather-Wrapped Steering Wheel, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2024-09-13 11:36:43"
+    "packages": "Alloy Wheel Locks[installed_msrp], TRD Sport Package, SR5 Convenience Package, SR5 BSM Tow Mirrors, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], Heated Leather-Wrapped Steering Wheel, Spare Tire Lock[installed_msrp]",
+    "created_at": "2024-09-14 11:34:45"
   },
   {
     "dealer": "34104",
@@ -2156,8 +2116,8 @@
     "total_msrp": "79552.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "50 State Emissions, Spray-On Bedliner[installed_msrp], Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Console Safe[installed_msrp]",
-    "created_at": "2024-09-13 11:37:31"
+    "packages": "50 State Emissions, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Console Safe[installed_msrp], Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio",
+    "created_at": "2024-09-14 11:35:34"
   },
   {
     "dealer": "34111",
@@ -2176,8 +2136,8 @@
     "total_msrp": "79894.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, , All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2024-09-13 11:37:41"
+    "packages": ", All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-09-14 11:35:42"
   },
   {
     "dealer": "37162",
@@ -2196,8 +2156,8 @@
     "total_msrp": "80814.0",
     "availability_date": null,
     "total_packages": 6,
-    "packages": "Owner's Portfolio, Advanced Package, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, , Special Color",
-    "created_at": "2024-09-13 11:37:48"
+    "packages": "50 State Emissions, , Advanced Package, Special Color, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio",
+    "created_at": "2024-09-14 11:35:50"
   },
   {
     "dealer": "12102",
@@ -2216,8 +2176,8 @@
     "total_msrp": "63931.0",
     "availability_date": null,
     "total_packages": 14,
-    "packages": "All-Weather Floor Liner Package[installed_msrp], TRD Front Skid Plate, PVM + BSM Outer Mirrors, Heated Leather Steering Wheel, Limited Premium Package, Tailgate Insert Badge - Chrome[installed_msrp], 50 State Emissions, Spray-On Bedliner[installed_msrp], Panoramic Roof, TRD Off-Road Package, Limited Power Package, BedStep®[installed_msrp], JBL Premium Audio, Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2024-09-13 11:38:03"
+    "packages": "TRD Front Skid Plate, Alloy Wheel Locks[installed_msrp], Heated Leather Steering Wheel, BedStep®[installed_msrp], JBL Premium Audio, TRD Off-Road Package, Limited Premium Package, All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], Limited Power Package, Tailgate Insert Badge - Chrome[installed_msrp], 50 State Emissions, PVM + BSM Outer Mirrors, Panoramic Roof",
+    "created_at": "2024-09-14 11:36:04"
   },
   {
     "dealer": "12156",
@@ -2236,8 +2196,8 @@
     "total_msrp": "52184.0",
     "availability_date": null,
     "total_packages": 7,
-    "packages": "SR5 BSM Outer Mirrors, SR5 Convenience Package, Owner's Portfolio, Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Door Edge Guards - Stainless Steel[installed_msrp], 50 State Emissions",
-    "created_at": "2024-09-13 11:38:26"
+    "packages": "Alloy Wheel Locks[installed_msrp], SR5 Convenience Package, Owner's Portfolio, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Door Edge Guards - Stainless Steel[installed_msrp], SR5 BSM Outer Mirrors",
+    "created_at": "2024-09-14 11:36:26"
   },
   {
     "dealer": "48065",
@@ -2256,7 +2216,7 @@
     "total_msrp": "79763.0",
     "availability_date": null,
     "total_packages": 4,
-    "packages": "50 State Emissions, Advanced Package, All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-09-13 11:38:43"
+    "packages": "Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Advanced Package",
+    "created_at": "2024-09-14 11:36:40"
   }
 ]
