@@ -17,7 +17,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Black Front Bumper Insert[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:26:24"
+    "created_at": "2024-11-08 11:25:25"
   },
   {
     "dealer": "02044",
@@ -37,7 +37,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, Black Front Bumper Insert[installed_msrp], Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:26:24"
+    "created_at": "2024-11-08 11:25:25"
   },
   {
     "dealer": "02044",
@@ -57,7 +57,27 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Black Front Bumper Insert[installed_msrp]",
-    "created_at": "2024-11-07 11:26:24"
+    "created_at": "2024-11-08 11:25:25"
+  },
+  {
+    "dealer": "02044",
+    "vin": "5TFVC5DB6PX037478",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Midnight Black Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "77645",
+    "total_msrp": "80317.0",
+    "availability_date": null,
+    "total_packages": 4,
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Black Front Bumper Insert[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions",
+    "created_at": "2024-11-08 11:25:25"
   },
   {
     "dealer": "27020",
@@ -77,7 +97,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Spray-On Bedliner[installed_msrp], Owner's Portfolio, Alloy Wheel Locks[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Security Package[installed_msrp]",
-    "created_at": "2024-11-07 11:26:33"
+    "created_at": "2024-11-08 11:25:34"
   },
   {
     "dealer": "27020",
@@ -97,7 +117,27 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], Security Package[installed_msrp], Owner's Portfolio, Alloy Wheel Locks[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:26:33"
+    "created_at": "2024-11-08 11:25:34"
+  },
+  {
+    "dealer": "27020",
+    "vin": "5TFVC5DB2PX031094",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Midnight Black Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "76145",
+    "total_msrp": "79767.0",
+    "availability_date": null,
+    "total_packages": 6,
+    "packages": "Spray-On Bedliner[installed_msrp], Alloy Wheel Locks[installed_msrp], 50 State Emissions, Security Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio",
+    "created_at": "2024-11-08 11:25:34"
   },
   {
     "dealer": "27020",
@@ -117,7 +157,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Alloy Wheel Locks[installed_msrp], 50 State Emissions, Security Package[installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:26:33"
+    "created_at": "2024-11-08 11:25:34"
   },
   {
     "dealer": "27021",
@@ -137,7 +177,27 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "Cargo Net - Exterior[installed_msrp], Bed Extender[installed_msrp], PVM + BSM Outer Mirrors, Owner's Portfolio, 1794 Grade Package, Spray-On Bedliner[installed_msrp], 50 State Emissions, Quick Charge Cable Package[installed_msrp], Special Color, Mini Tie-Downs with Hooks[installed_msrp]",
-    "created_at": "2024-11-07 11:26:35"
+    "created_at": "2024-11-08 11:25:36"
+  },
+  {
+    "dealer": "27021",
+    "vin": "5TFMC5DB7PX032740",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "1794edition",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Wind Chill Pearl [extra_cost_color]",
+    "interior": "Saddle Tan Leather",
+    "base_msrp": "66705",
+    "total_msrp": "69658.0",
+    "availability_date": null,
+    "total_packages": 10,
+    "packages": "Quick Charge Cable Package[installed_msrp], Bed Extender[installed_msrp], Owner's Portfolio, 50 State Emissions, Cargo Net - Exterior[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp], Special Color, Spray-On Bedliner[installed_msrp], 1794 Grade Package, PVM + BSM Outer Mirrors",
+    "created_at": "2024-11-08 11:25:36"
   },
   {
     "dealer": "27021",
@@ -157,7 +217,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "Bed Extender[installed_msrp], 50 State Emissions, Owner's Portfolio, Special Color, Quick Charge Cable Package[installed_msrp], 1794 Grade Package, PVM + BSM Outer Mirrors, Cargo Net - Exterior[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:26:35"
+    "created_at": "2024-11-08 11:25:36"
   },
   {
     "dealer": "27021",
@@ -177,7 +237,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "50 State Emissions, PVM + BSM Outer Mirrors, Cargo Net - Exterior[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp], Special Color, Owner's Portfolio, 1794 Grade Package, Spray-On Bedliner[installed_msrp], Quick Charge Cable Package[installed_msrp], Bed Extender[installed_msrp]",
-    "created_at": "2024-11-07 11:26:35"
+    "created_at": "2024-11-08 11:25:36"
   },
   {
     "dealer": "04772",
@@ -197,7 +257,27 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "All-Weather Floor Liner Package[installed_msrp], Special Color, 50 State Emissions, Spray-On Bedliner[installed_msrp], , Power Running Boards",
-    "created_at": "2024-11-07 11:26:39"
+    "created_at": "2024-11-08 11:25:42"
+  },
+  {
+    "dealer": "04772",
+    "vin": "5TFNA5DB5PX106473",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "platinum",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Wind Chill Pearl [extra_cost_color]",
+    "interior": "Black Leather",
+    "base_msrp": "62675",
+    "total_msrp": "67088.0",
+    "availability_date": null,
+    "total_packages": 6,
+    "packages": "Special Color, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Power Running Boards, ",
+    "created_at": "2024-11-08 11:25:42"
   },
   {
     "dealer": "04772",
@@ -217,7 +297,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Power Running Boards, All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], , 50 State Emissions, Special Color",
-    "created_at": "2024-11-07 11:26:39"
+    "created_at": "2024-11-08 11:25:42"
   },
   {
     "dealer": "04772",
@@ -237,7 +317,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Spray-On Bedliner[installed_msrp], , Special Color, 50 State Emissions, Power Running Boards, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:26:39"
+    "created_at": "2024-11-08 11:25:42"
   },
   {
     "dealer": "04013",
@@ -257,7 +337,7 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 1794 Grade Package, Advanced Package, Special Color, Power Running Boards, 50 State Emissions, PVM + BSM Outer Mirrors",
-    "created_at": "2024-11-07 11:27:00"
+    "created_at": "2024-11-08 11:26:04"
   },
   {
     "dealer": "04013",
@@ -277,7 +357,7 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "Advanced Package, Power Running Boards, PVM + BSM Outer Mirrors, 1794 Grade Package, Special Color, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:27:00"
+    "created_at": "2024-11-08 11:26:04"
   },
   {
     "dealer": "04013",
@@ -297,7 +377,27 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "PVM + BSM Outer Mirrors, Power Running Boards, Special Color, Advanced Package, 1794 Grade Package, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:27:00"
+    "created_at": "2024-11-08 11:26:04"
+  },
+  {
+    "dealer": "04013",
+    "vin": "5TFMA5DB0PX059915",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "1794edition",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Wind Chill Pearl [extra_cost_color]",
+    "interior": "Saddle Tan Leather",
+    "base_msrp": "62460",
+    "total_msrp": "68169.0",
+    "availability_date": null,
+    "total_packages": 7,
+    "packages": "Advanced Package, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], PVM + BSM Outer Mirrors, 1794 Grade Package, 50 State Emissions, Power Running Boards, Special Color",
+    "created_at": "2024-11-08 11:26:04"
   },
   {
     "dealer": "04284",
@@ -317,7 +417,27 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": "1794 Grade Package, Power Running Boards, Emergency Assistance Kit[installed_msrp], , 50 State Emissions, PVM + BSM Outer Mirrors, Mini Tie-Downs with Hooks[installed_msrp], Advanced Package",
-    "created_at": "2024-11-07 11:27:05"
+    "created_at": "2024-11-08 11:26:09"
+  },
+  {
+    "dealer": "04284",
+    "vin": "5TFMA5EC2PX012523",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "1794edition",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "6.5ft",
+    "color": "Smoked Mesquite",
+    "interior": "Saddle Tan Leather",
+    "base_msrp": "62790",
+    "total_msrp": "67755.0",
+    "availability_date": null,
+    "total_packages": 8,
+    "packages": "Mini Tie-Downs with Hooks[installed_msrp], Advanced Package, PVM + BSM Outer Mirrors, Power Running Boards, Emergency Assistance Kit[installed_msrp], 50 State Emissions, 1794 Grade Package, ",
+    "created_at": "2024-11-08 11:26:09"
   },
   {
     "dealer": "04284",
@@ -337,7 +457,7 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": "1794 Grade Package, Mini Tie-Downs with Hooks[installed_msrp], , Power Running Boards, Advanced Package, Emergency Assistance Kit[installed_msrp], 50 State Emissions, PVM + BSM Outer Mirrors",
-    "created_at": "2024-11-07 11:27:05"
+    "created_at": "2024-11-08 11:26:09"
   },
   {
     "dealer": "04284",
@@ -357,7 +477,7 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": "Emergency Assistance Kit[installed_msrp], 50 State Emissions, Mini Tie-Downs with Hooks[installed_msrp], , Advanced Package, Power Running Boards, PVM + BSM Outer Mirrors, 1794 Grade Package",
-    "created_at": "2024-11-07 11:27:05"
+    "created_at": "2024-11-08 11:26:09"
   },
   {
     "dealer": "04282",
@@ -377,7 +497,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:27:25"
+    "created_at": "2024-11-08 11:26:31"
   },
   {
     "dealer": "04282",
@@ -397,7 +517,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:27:25"
+    "created_at": "2024-11-08 11:26:31"
   },
   {
     "dealer": "04282",
@@ -417,7 +537,27 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:27:25"
+    "created_at": "2024-11-08 11:26:31"
+  },
+  {
+    "dealer": "04282",
+    "vin": "5TFNA5EC0PX015098",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "platinum",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "6.5ft",
+    "color": "Celestial Silver Metallic",
+    "interior": "Black Leather",
+    "base_msrp": "63005",
+    "total_msrp": "65034.0",
+    "availability_date": null,
+    "total_packages": 2,
+    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-11-08 11:26:31"
   },
   {
     "dealer": "04786",
@@ -437,7 +577,7 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": "Special Color, , 50 State Emissions, Tailgate Insert Badge - Black[installed_msrp], Mini Tie-Downs with Hooks[installed_msrp], , All-Weather Floor Liner Package[installed_msrp], Power Running Boards",
-    "created_at": "2024-11-07 11:27:29"
+    "created_at": "2024-11-08 11:26:35"
   },
   {
     "dealer": "04786",
@@ -457,7 +597,7 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": "Mini Tie-Downs with Hooks[installed_msrp], , 50 State Emissions, Tailgate Insert Badge - Black[installed_msrp], Special Color, All-Weather Floor Liner Package[installed_msrp], , Power Running Boards",
-    "created_at": "2024-11-07 11:27:29"
+    "created_at": "2024-11-08 11:26:35"
   },
   {
     "dealer": "04786",
@@ -477,7 +617,47 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": "Tailgate Insert Badge - Black[installed_msrp], 50 State Emissions, , , Special Color, Mini Tie-Downs with Hooks[installed_msrp], Power Running Boards, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:27:29"
+    "created_at": "2024-11-08 11:26:35"
+  },
+  {
+    "dealer": "04786",
+    "vin": "5TFNC5DB0PX036679",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "platinum",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Wind Chill Pearl [extra_cost_color]",
+    "interior": "Black Leather",
+    "base_msrp": "67505",
+    "total_msrp": "71212.0",
+    "availability_date": null,
+    "total_packages": 8,
+    "packages": "Tailgate Insert Badge - Black[installed_msrp], Power Running Boards, All-Weather Floor Liner Package[installed_msrp], , 50 State Emissions, , Mini Tie-Downs with Hooks[installed_msrp], Special Color",
+    "created_at": "2024-11-08 11:26:35"
+  },
+  {
+    "dealer": "04143",
+    "vin": "5TFVC5DB5PX037942",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "77645",
+    "total_msrp": "79689.0",
+    "availability_date": null,
+    "total_packages": 3,
+    "packages": "Quick Charge Cable Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-11-08 11:26:55"
   },
   {
     "dealer": "04143",
@@ -497,7 +677,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "50 State Emissions, Quick Charge Cable Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:27:48"
+    "created_at": "2024-11-08 11:26:55"
   },
   {
     "dealer": "04143",
@@ -517,7 +697,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:27:48"
+    "created_at": "2024-11-08 11:26:55"
   },
   {
     "dealer": "04143",
@@ -537,7 +717,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2024-11-07 11:27:48"
+    "created_at": "2024-11-08 11:26:55"
   },
   {
     "dealer": "04563",
@@ -557,27 +737,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "50 State Emissions, TRD Air Filter[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:27:59"
-  },
-  {
-    "dealer": "04563",
-    "vin": "5TFVC5DB7PX025470",
-    "year": "2023",
-    "vehicle": "tundra",
-    "model": "C",
-    "enginge": "i-FORCE MAX V6 Hybrid",
-    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "CrewMax",
-    "bed": "5.5ft",
-    "color": "Magnetic Gray Metallic",
-    "interior": "Black and White Semi-Aniline Leather",
-    "base_msrp": "76145",
-    "total_msrp": "78249.0",
-    "availability_date": null,
-    "total_packages": 3,
-    "packages": "50 State Emissions, TRD Air Filter[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:27:59"
+    "created_at": "2024-11-08 11:27:06"
   },
   {
     "dealer": "04563",
@@ -597,7 +757,47 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "TRD Air Filter[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:27:59"
+    "created_at": "2024-11-08 11:27:06"
+  },
+  {
+    "dealer": "04563",
+    "vin": "5TFVC5DB7PX025470",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "76145",
+    "total_msrp": "78249.0",
+    "availability_date": null,
+    "total_packages": 3,
+    "packages": "50 State Emissions, TRD Air Filter[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-11-08 11:27:06"
+  },
+  {
+    "dealer": "04563",
+    "vin": "5TFVC5DB7PX025470",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "76145",
+    "total_msrp": "78249.0",
+    "availability_date": null,
+    "total_packages": 3,
+    "packages": "TRD Air Filter[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-11-08 11:27:06"
   },
   {
     "dealer": "04039",
@@ -617,7 +817,27 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Special Color, Spray-On Bedliner[installed_msrp], Owner's Portfolio, 50 State Emissions, TRD Pro Grade Package",
-    "created_at": "2024-11-07 11:28:18"
+    "created_at": "2024-11-08 11:27:24"
+  },
+  {
+    "dealer": "04039",
+    "vin": "5TFPC5DB4PX032479",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "TP",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Solar Octane [extra_cost_color]",
+    "interior": "Black SofTex® [softex]",
+    "base_msrp": "69420",
+    "total_msrp": "71814.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "TRD Pro Grade Package, Special Color, 50 State Emissions, Spray-On Bedliner[installed_msrp], Owner's Portfolio",
+    "created_at": "2024-11-08 11:27:24"
   },
   {
     "dealer": "04039",
@@ -637,7 +857,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Special Color, Spray-On Bedliner[installed_msrp], TRD Pro Grade Package, Owner's Portfolio, 50 State Emissions",
-    "created_at": "2024-11-07 11:28:18"
+    "created_at": "2024-11-08 11:27:24"
   },
   {
     "dealer": "04039",
@@ -657,7 +877,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "TRD Pro Grade Package, Spray-On Bedliner[installed_msrp], Owner's Portfolio, 50 State Emissions, Special Color",
-    "created_at": "2024-11-07 11:28:18"
+    "created_at": "2024-11-08 11:27:24"
   },
   {
     "dealer": "43020",
@@ -677,7 +897,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Spray-On Bedliner[installed_msrp], , Quick Charge Cable Package[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:28:35"
+    "created_at": "2024-11-08 11:27:41"
   },
   {
     "dealer": "43020",
@@ -697,7 +917,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Quick Charge Cable Package[installed_msrp], , 50 State Emissions, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:28:35"
+    "created_at": "2024-11-08 11:27:41"
   },
   {
     "dealer": "43020",
@@ -717,7 +937,47 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Spray-On Bedliner[installed_msrp], Quick Charge Cable Package[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], ",
-    "created_at": "2024-11-07 11:28:35"
+    "created_at": "2024-11-08 11:27:41"
+  },
+  {
+    "dealer": "43020",
+    "vin": "5TFVC5DB5PX032787",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Celestial Silver Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "76145",
+    "total_msrp": "78938.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], ",
+    "created_at": "2024-11-08 11:27:41"
+  },
+  {
+    "dealer": "43019",
+    "vin": "5TFNC5DB1PX030485",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "platinum",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black Leather",
+    "base_msrp": "66005",
+    "total_msrp": "69672.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], , 50 State Emissions, ",
+    "created_at": "2024-11-08 11:27:42"
   },
   {
     "dealer": "43019",
@@ -737,7 +997,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, , All-Weather Floor Liner Package[installed_msrp], ",
-    "created_at": "2024-11-07 11:28:37"
+    "created_at": "2024-11-08 11:27:42"
   },
   {
     "dealer": "43019",
@@ -757,7 +1017,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "All-Weather Floor Liner Package[installed_msrp], , , 50 State Emissions, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:28:37"
+    "created_at": "2024-11-08 11:27:42"
   },
   {
     "dealer": "43019",
@@ -777,7 +1037,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], , , Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:28:37"
+    "created_at": "2024-11-08 11:27:42"
   },
   {
     "dealer": "36103",
@@ -797,7 +1057,27 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Quick Charge Cable Package[installed_msrp], 50 State Emissions, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2024-11-07 11:28:46"
+    "created_at": "2024-11-08 11:27:52"
+  },
+  {
+    "dealer": "36103",
+    "vin": "5TFVC5DB6PX037447",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Midnight Black Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "77645",
+    "total_msrp": "80368.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "Spray-On Bedliner[installed_msrp], Quick Charge Cable Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Alloy Wheel Locks[installed_msrp]",
+    "created_at": "2024-11-08 11:27:52"
   },
   {
     "dealer": "36103",
@@ -817,7 +1097,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], Quick Charge Cable Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:28:46"
+    "created_at": "2024-11-08 11:27:52"
   },
   {
     "dealer": "36103",
@@ -837,7 +1117,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Alloy Wheel Locks[installed_msrp], 50 State Emissions, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2024-11-07 11:28:46"
+    "created_at": "2024-11-08 11:27:52"
   },
   {
     "dealer": "36103",
@@ -857,7 +1137,7 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": ", Owner's Portfolio, Dash Camera[installed_msrp], 50 State Emissions, Spray-On Bedliner[installed_msrp], , Console Safe[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:28:46"
+    "created_at": "2024-11-08 11:27:52"
   },
   {
     "dealer": "36103",
@@ -877,7 +1157,27 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": "Owner's Portfolio, Console Safe[installed_msrp], , 50 State Emissions, , All-Weather Floor Liner Package[installed_msrp], Dash Camera[installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:28:46"
+    "created_at": "2024-11-08 11:27:52"
+  },
+  {
+    "dealer": "36103",
+    "vin": "5TFVC5DB5PX038265",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Celestial Silver Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "77645",
+    "total_msrp": "81382.0",
+    "availability_date": null,
+    "total_packages": 8,
+    "packages": ", Console Safe[installed_msrp], Owner's Portfolio, Dash Camera[installed_msrp], 50 State Emissions, , Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-11-08 11:27:52"
   },
   {
     "dealer": "36103",
@@ -897,7 +1197,7 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": "Console Safe[installed_msrp], Spray-On Bedliner[installed_msrp], Dash Camera[installed_msrp], All-Weather Floor Liner Package[installed_msrp], , Owner's Portfolio, , 50 State Emissions",
-    "created_at": "2024-11-07 11:28:46"
+    "created_at": "2024-11-08 11:27:52"
   },
   {
     "dealer": "46003",
@@ -917,7 +1217,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Heated Leather-Wrapped Steering Wheel, Owner's Portfolio, 50 State Emissions, SR5 Premium Package, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:28:57"
+    "created_at": "2024-11-08 11:28:04"
   },
   {
     "dealer": "46003",
@@ -937,7 +1237,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "SR5 Premium Package, Heated Leather-Wrapped Steering Wheel, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Owner's Portfolio",
-    "created_at": "2024-11-07 11:28:57"
+    "created_at": "2024-11-08 11:28:04"
   },
   {
     "dealer": "46003",
@@ -957,7 +1257,27 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "SR5 Premium Package, Owner's Portfolio, Heated Leather-Wrapped Steering Wheel, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:28:57"
+    "created_at": "2024-11-08 11:28:04"
+  },
+  {
+    "dealer": "46003",
+    "vin": "5TFLA5AB9PX025262",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Celestial Silver Metallic",
+    "interior": "Black SofTex&reg; [softex]",
+    "base_msrp": "45420",
+    "total_msrp": "49834.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "50 State Emissions, SR5 Premium Package, Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Heated Leather-Wrapped Steering Wheel",
+    "created_at": "2024-11-08 11:28:04"
   },
   {
     "dealer": "46003",
@@ -977,7 +1297,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Owner's Portfolio, Special Color, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:28:57"
+    "created_at": "2024-11-08 11:28:04"
   },
   {
     "dealer": "46003",
@@ -997,7 +1317,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Special Color, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, 50 State Emissions",
-    "created_at": "2024-11-07 11:28:57"
+    "created_at": "2024-11-08 11:28:04"
   },
   {
     "dealer": "46003",
@@ -1017,7 +1337,27 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Special Color, All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Owner's Portfolio",
-    "created_at": "2024-11-07 11:28:57"
+    "created_at": "2024-11-08 11:28:04"
+  },
+  {
+    "dealer": "46003",
+    "vin": "5TFVC5DB8PX036977",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Supersonic Red [extra_cost_color]",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "77645",
+    "total_msrp": "79619.0",
+    "availability_date": null,
+    "total_packages": 4,
+    "packages": "Owner's Portfolio, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Special Color",
+    "created_at": "2024-11-08 11:28:04"
   },
   {
     "dealer": "46081",
@@ -1037,7 +1377,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "All-Weather Floor Liner Package[installed_msrp], Heated Leather-Wrapped Steering Wheel, 50 State Emissions, Spray-On Bedliner[installed_msrp], SR5 Premium Package",
-    "created_at": "2024-11-07 11:29:09"
+    "created_at": "2024-11-08 11:28:16"
   },
   {
     "dealer": "46081",
@@ -1057,7 +1397,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, SR5 Premium Package, All-Weather Floor Liner Package[installed_msrp], Heated Leather-Wrapped Steering Wheel",
-    "created_at": "2024-11-07 11:29:09"
+    "created_at": "2024-11-08 11:28:16"
   },
   {
     "dealer": "46081",
@@ -1077,7 +1417,27 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, SR5 Premium Package, Heated Leather-Wrapped Steering Wheel, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:29:09"
+    "created_at": "2024-11-08 11:28:16"
+  },
+  {
+    "dealer": "46081",
+    "vin": "5TFLA5AB1PX027717",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Celestial Silver Metallic",
+    "interior": "Black SofTex&reg; [softex]",
+    "base_msrp": "46520",
+    "total_msrp": "51533.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions, Heated Leather-Wrapped Steering Wheel, SR5 Premium Package",
+    "created_at": "2024-11-08 11:28:16"
   },
   {
     "dealer": "05067",
@@ -1097,7 +1457,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Special Color",
-    "created_at": "2024-11-07 11:29:12"
+    "created_at": "2024-11-08 11:28:19"
   },
   {
     "dealer": "05067",
@@ -1117,7 +1477,7 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Special Color",
-    "created_at": "2024-11-07 11:29:12"
+    "created_at": "2024-11-08 11:28:19"
   },
   {
     "dealer": "05067",
@@ -1137,7 +1497,47 @@
     "availability_date": null,
     "total_packages": 3,
     "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Special Color",
-    "created_at": "2024-11-07 11:29:12"
+    "created_at": "2024-11-08 11:28:19"
+  },
+  {
+    "dealer": "05067",
+    "vin": "5TFNA5EC1PX012517",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "platinum",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "6.5ft",
+    "color": "Wind Chill Pearl [extra_cost_color]",
+    "interior": "Black Leather",
+    "base_msrp": "62105",
+    "total_msrp": "64134.0",
+    "availability_date": null,
+    "total_packages": 3,
+    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Special Color",
+    "created_at": "2024-11-08 11:28:19"
+  },
+  {
+    "dealer": "05067",
+    "vin": "5TFVC5DB2PX035825",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Midnight Black Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "77645",
+    "total_msrp": "79619.0",
+    "availability_date": null,
+    "total_packages": 2,
+    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-11-08 11:28:19"
   },
   {
     "dealer": "05067",
@@ -1157,7 +1557,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:29:12"
+    "created_at": "2024-11-08 11:28:19"
   },
   {
     "dealer": "05067",
@@ -1177,7 +1577,7 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:29:12"
+    "created_at": "2024-11-08 11:28:19"
   },
   {
     "dealer": "05067",
@@ -1197,7 +1597,27 @@
     "availability_date": null,
     "total_packages": 2,
     "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:29:12"
+    "created_at": "2024-11-08 11:28:19"
+  },
+  {
+    "dealer": "05011",
+    "vin": "5TFJA5DB6NX009651",
+    "year": "2022",
+    "vehicle": "tundra",
+    "model": "limited",
+    "enginge": "3.5L-T V6",
+    "transmission": "10-speed automatic transmission",
+    "drivetrain": "4x4",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Wind Chill Pearl [extra_cost_color]",
+    "interior": "Black SofTex® [softex]",
+    "base_msrp": "51900",
+    "total_msrp": "61102.0",
+    "availability_date": null,
+    "total_packages": 10,
+    "packages": "50 State Emissions, Special Color, Panoramic Roof, All-Weather Floor Liners[installed_msrp], Heated Leather Steering Wheel, TRD Off-Road Package, Spray-On Bedliner[installed_msrp], TRD Cast Aluminum Running Boards[installed_msrp], Tailgate Insert Badge - Black[installed_msrp], JBL Premium Audio",
+    "created_at": "2024-11-08 11:28:21"
   },
   {
     "dealer": "05011",
@@ -1217,7 +1637,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "Spray-On Bedliner[installed_msrp], Panoramic Roof, TRD Off-Road Package, Special Color, Heated Leather Steering Wheel, All-Weather Floor Liners[installed_msrp], JBL Premium Audio, Tailgate Insert Badge - Black[installed_msrp], 50 State Emissions, TRD Cast Aluminum Running Boards[installed_msrp]",
-    "created_at": "2024-11-07 11:29:14"
+    "created_at": "2024-11-08 11:28:21"
   },
   {
     "dealer": "05011",
@@ -1237,7 +1657,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "Spray-On Bedliner[installed_msrp], Tailgate Insert Badge - Black[installed_msrp], Special Color, Panoramic Roof, Heated Leather Steering Wheel, 50 State Emissions, JBL Premium Audio, All-Weather Floor Liners[installed_msrp], TRD Cast Aluminum Running Boards[installed_msrp], TRD Off-Road Package",
-    "created_at": "2024-11-07 11:29:14"
+    "created_at": "2024-11-08 11:28:21"
   },
   {
     "dealer": "05011",
@@ -1257,7 +1677,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "TRD Cast Aluminum Running Boards[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liners[installed_msrp], Panoramic Roof, Heated Leather Steering Wheel, JBL Premium Audio, TRD Off-Road Package, Tailgate Insert Badge - Black[installed_msrp], Special Color",
-    "created_at": "2024-11-07 11:29:14"
+    "created_at": "2024-11-08 11:28:21"
   },
   {
     "dealer": "05070",
@@ -1277,7 +1697,27 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "50 State Emissions, TRD Off-Road Premium Package, Spray-On Bedliner[installed_msrp], All-Weather Floor Liners[installed_msrp], Leather Steering Wheel, TRD Convenience Package",
-    "created_at": "2024-11-07 11:29:23"
+    "created_at": "2024-11-08 11:28:30"
+  },
+  {
+    "dealer": "05070",
+    "vin": "5TFLA5DB7NX016455",
+    "year": "2022",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "3.5L-T V6",
+    "transmission": "10-speed automatic transmission",
+    "drivetrain": "4x4",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "White",
+    "interior": "Boulder SofTex® [softex]",
+    "base_msrp": "45805",
+    "total_msrp": "54168.0",
+    "availability_date": null,
+    "total_packages": 6,
+    "packages": "All-Weather Floor Liners[installed_msrp], Leather Steering Wheel, TRD Off-Road Premium Package, 50 State Emissions, Spray-On Bedliner[installed_msrp], TRD Convenience Package",
+    "created_at": "2024-11-08 11:28:30"
   },
   {
     "dealer": "05070",
@@ -1297,7 +1737,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "TRD Convenience Package, All-Weather Floor Liners[installed_msrp], Leather Steering Wheel, 50 State Emissions, Spray-On Bedliner[installed_msrp], TRD Off-Road Premium Package",
-    "created_at": "2024-11-07 11:29:23"
+    "created_at": "2024-11-08 11:28:30"
   },
   {
     "dealer": "05070",
@@ -1317,7 +1757,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "50 State Emissions, Spray-On Bedliner[installed_msrp], TRD Off-Road Premium Package, All-Weather Floor Liners[installed_msrp], Leather Steering Wheel, TRD Convenience Package",
-    "created_at": "2024-11-07 11:29:23"
+    "created_at": "2024-11-08 11:28:30"
   },
   {
     "dealer": "25067",
@@ -1337,7 +1777,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Tailgate Insert Badge - Black[installed_msrp], 50 State Emissions, Spray-On Bedliner[installed_msrp], Power Running Boards, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio",
-    "created_at": "2024-11-07 11:29:35"
+    "created_at": "2024-11-08 11:28:41"
   },
   {
     "dealer": "25067",
@@ -1357,7 +1797,27 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Power Running Boards, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], Owner's Portfolio, Tailgate Insert Badge - Black[installed_msrp]",
-    "created_at": "2024-11-07 11:29:35"
+    "created_at": "2024-11-08 11:28:41"
+  },
+  {
+    "dealer": "25067",
+    "vin": "5TFNA5DB8PX098854",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "platinum",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Celestial Silver Metallic",
+    "interior": "Black Leather",
+    "base_msrp": "62675",
+    "total_msrp": "66687.0",
+    "availability_date": null,
+    "total_packages": 6,
+    "packages": "Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Power Running Boards, Owner's Portfolio, Tailgate Insert Badge - Black[installed_msrp]",
+    "created_at": "2024-11-08 11:28:41"
   },
   {
     "dealer": "25067",
@@ -1377,7 +1837,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], Tailgate Insert Badge - Black[installed_msrp], 50 State Emissions, Power Running Boards, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:29:35"
+    "created_at": "2024-11-08 11:28:41"
   },
   {
     "dealer": "42407",
@@ -1397,7 +1857,27 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "50 State Emissions, Ball Mount[gst_global_lio_disclaimer], Charging and Connectivity Kit, Integrated Dashcam[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:29:53"
+    "created_at": "2024-11-08 11:28:59"
+  },
+  {
+    "dealer": "42407",
+    "vin": "5TFLA5DB0PX104802",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black Fabric",
+    "base_msrp": "49520",
+    "total_msrp": "52705.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "50 State Emissions, Ball Mount[gst_global_lio_disclaimer], Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer]",
+    "created_at": "2024-11-08 11:28:59"
   },
   {
     "dealer": "42407",
@@ -1417,7 +1897,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Integrated Dashcam[gst_global_lio_disclaimer], Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Ball Mount[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:29:53"
+    "created_at": "2024-11-08 11:28:59"
   },
   {
     "dealer": "42407",
@@ -1437,7 +1917,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Integrated Dashcam[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Charging and Connectivity Kit, Ball Mount[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-11-07 11:29:53"
+    "created_at": "2024-11-08 11:28:59"
   },
   {
     "dealer": "42407",
@@ -1457,7 +1937,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "50 State Emissions, Ball Mount[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Charging and Connectivity Kit",
-    "created_at": "2024-11-07 11:29:53"
+    "created_at": "2024-11-08 11:28:59"
   },
   {
     "dealer": "42407",
@@ -1477,7 +1957,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Catalytic Converter Shield[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], 50 State Emissions, Charging and Connectivity Kit",
-    "created_at": "2024-11-07 11:29:53"
+    "created_at": "2024-11-08 11:28:59"
   },
   {
     "dealer": "42407",
@@ -1497,7 +1977,47 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Integrated Dashcam[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:29:53"
+    "created_at": "2024-11-08 11:28:59"
+  },
+  {
+    "dealer": "42407",
+    "vin": "5TFLA5DB3PX106656",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black Fabric",
+    "base_msrp": "49520",
+    "total_msrp": "52705.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "50 State Emissions, Catalytic Converter Shield[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Charging and Connectivity Kit, Ball Mount[gst_global_lio_disclaimer]",
+    "created_at": "2024-11-08 11:28:59"
+  },
+  {
+    "dealer": "42407",
+    "vin": "5TFLA5DB3PX104552",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black Fabric",
+    "base_msrp": "49520",
+    "total_msrp": "52834.0",
+    "availability_date": null,
+    "total_packages": 6,
+    "packages": "Catalytic Converter Shield[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Charging and Connectivity Kit, 50 State Emissions, Integrated Dashcam[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer]",
+    "created_at": "2024-11-08 11:28:59"
   },
   {
     "dealer": "42407",
@@ -1517,7 +2037,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Ball Mount[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Integrated Dashcam[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Charging and Connectivity Kit",
-    "created_at": "2024-11-07 11:29:53"
+    "created_at": "2024-11-08 11:28:59"
   },
   {
     "dealer": "42407",
@@ -1537,7 +2057,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Integrated Dashcam[gst_global_lio_disclaimer], Charging and Connectivity Kit, 50 State Emissions, Catalytic Converter Shield[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:29:53"
+    "created_at": "2024-11-08 11:28:59"
   },
   {
     "dealer": "42407",
@@ -1557,7 +2077,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Integrated Dashcam[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Charging and Connectivity Kit, Ball Mount[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:29:53"
+    "created_at": "2024-11-08 11:28:59"
   },
   {
     "dealer": "42347",
@@ -1577,7 +2097,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, Integrated Dashcam[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Charging and Connectivity Kit",
-    "created_at": "2024-11-07 11:30:07"
+    "created_at": "2024-11-08 11:29:13"
   },
   {
     "dealer": "42347",
@@ -1597,7 +2117,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Charging and Connectivity Kit, Integrated Dashcam[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:07"
+    "created_at": "2024-11-08 11:29:13"
   },
   {
     "dealer": "42347",
@@ -1617,7 +2137,27 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Charging and Connectivity Kit, Integrated Dashcam[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:07"
+    "created_at": "2024-11-08 11:29:13"
+  },
+  {
+    "dealer": "42347",
+    "vin": "5TFLA5DB6PX105453",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Boulder Fabric",
+    "base_msrp": "49520",
+    "total_msrp": "52518.0",
+    "availability_date": null,
+    "total_packages": 4,
+    "packages": "Charging and Connectivity Kit, Vehicle Protection Package[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], 50 State Emissions",
+    "created_at": "2024-11-08 11:29:13"
   },
   {
     "dealer": "42327",
@@ -1637,7 +2177,7 @@
     "availability_date": null,
     "total_packages": 0,
     "packages": "",
-    "created_at": "2024-11-07 11:30:08"
+    "created_at": "2024-11-08 11:29:15"
   },
   {
     "dealer": "42327",
@@ -1657,7 +2197,7 @@
     "availability_date": null,
     "total_packages": 0,
     "packages": "",
-    "created_at": "2024-11-07 11:30:08"
+    "created_at": "2024-11-08 11:29:15"
   },
   {
     "dealer": "42327",
@@ -1677,7 +2217,27 @@
     "availability_date": null,
     "total_packages": 0,
     "packages": "",
-    "created_at": "2024-11-07 11:30:08"
+    "created_at": "2024-11-08 11:29:15"
+  },
+  {
+    "dealer": "42327",
+    "vin": "5TFLA5BC8PX002949",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "6.5ft",
+    "color": "Ice Cap",
+    "interior": "Black Fabric",
+    "base_msrp": "47830",
+    "total_msrp": "52556.0",
+    "availability_date": null,
+    "total_packages": 0,
+    "packages": "",
+    "created_at": "2024-11-08 11:29:15"
   },
   {
     "dealer": "42404",
@@ -1697,7 +2257,27 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Charging and Connectivity Kit, Vehicle Protection Package[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:10"
+    "created_at": "2024-11-08 11:29:17"
+  },
+  {
+    "dealer": "42404",
+    "vin": "5TFLA5AB3PX027475",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Blueprint",
+    "interior": "Black Fabric",
+    "base_msrp": "46520",
+    "total_msrp": "49647.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-11-08 11:29:17"
   },
   {
     "dealer": "42404",
@@ -1717,7 +2297,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Charging and Connectivity Kit",
-    "created_at": "2024-11-07 11:30:10"
+    "created_at": "2024-11-08 11:29:17"
   },
   {
     "dealer": "42404",
@@ -1737,7 +2317,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Catalytic Converter Shield[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], 50 State Emissions, Charging and Connectivity Kit",
-    "created_at": "2024-11-07 11:30:10"
+    "created_at": "2024-11-08 11:29:17"
   },
   {
     "dealer": "42216",
@@ -1757,7 +2337,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "50 State Emissions, Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:19"
+    "created_at": "2024-11-08 11:29:25"
   },
   {
     "dealer": "42216",
@@ -1777,7 +2357,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], 50 State Emissions, Integrated Dashcam[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:19"
+    "created_at": "2024-11-08 11:29:25"
   },
   {
     "dealer": "42216",
@@ -1797,7 +2377,27 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Charging and Connectivity Kit, Integrated Dashcam[gst_global_lio_disclaimer], 50 State Emissions, Catalytic Converter Shield[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:19"
+    "created_at": "2024-11-08 11:29:25"
+  },
+  {
+    "dealer": "42216",
+    "vin": "5TFLA5DBXPX109876",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Army Green",
+    "interior": "Boulder Fabric",
+    "base_msrp": "49520",
+    "total_msrp": "53104.0",
+    "availability_date": null,
+    "total_packages": 6,
+    "packages": "Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Charging and Connectivity Kit, Ball Mount[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-11-08 11:29:25"
   },
   {
     "dealer": "42336",
@@ -1817,7 +2417,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Catalytic Converter Shield[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:25"
+    "created_at": "2024-11-08 11:29:30"
   },
   {
     "dealer": "42336",
@@ -1837,7 +2437,27 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Connectivity Kit[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:25"
+    "created_at": "2024-11-08 11:29:30"
+  },
+  {
+    "dealer": "42336",
+    "vin": "5TFLA5DBXPX102328",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Ice Cap",
+    "interior": "Boulder Fabric",
+    "base_msrp": "49520",
+    "total_msrp": "52517.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-11-08 11:29:30"
   },
   {
     "dealer": "42336",
@@ -1857,7 +2477,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-11-07 11:30:25"
+    "created_at": "2024-11-08 11:29:30"
   },
   {
     "dealer": "42321",
@@ -1877,7 +2497,7 @@
     "availability_date": null,
     "total_packages": 12,
     "packages": "SR5 Painted BSM Mirror, Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], Off-Road Front Skid Plate, Ball Mount[gst_global_lio_disclaimer], TRD Off-Road Premium Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], 50 State Emissions, TRD 18\" Off-Road Wheel, Leather-Wrapped Steering Wheel, Integrated Dashcam[gst_global_lio_disclaimer], SR5 Convenience Package",
-    "created_at": "2024-11-07 11:30:25"
+    "created_at": "2024-11-08 11:29:30"
   },
   {
     "dealer": "42321",
@@ -1897,7 +2517,27 @@
     "availability_date": null,
     "total_packages": 12,
     "packages": "TRD 18\" Off-Road Wheel, Off-Road Front Skid Plate, 50 State Emissions, TRD Off-Road Premium Package, Integrated Dashcam[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], SR5 Painted BSM Mirror, SR5 Convenience Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], Leather-Wrapped Steering Wheel",
-    "created_at": "2024-11-07 11:30:25"
+    "created_at": "2024-11-08 11:29:30"
+  },
+  {
+    "dealer": "42321",
+    "vin": "5TFLA5DB7PX104117",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black SofTex&reg; [softex]",
+    "base_msrp": "49520",
+    "total_msrp": "59125.0",
+    "availability_date": null,
+    "total_packages": 12,
+    "packages": "50 State Emissions, Integrated Dashcam[gst_global_lio_disclaimer], Off-Road Front Skid Plate, SR5 Convenience Package, Leather-Wrapped Steering Wheel, Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], TRD 18\" Off-Road Wheel, SR5 Painted BSM Mirror, TRD Off-Road Premium Package, Premium Carpet Mat Set[gst_global_lio_disclaimer]",
+    "created_at": "2024-11-08 11:29:30"
   },
   {
     "dealer": "42321",
@@ -1917,7 +2557,7 @@
     "availability_date": null,
     "total_packages": 12,
     "packages": "50 State Emissions, SR5 Convenience Package, Charging and Connectivity Kit, Ball Mount[gst_global_lio_disclaimer], Leather-Wrapped Steering Wheel, TRD 18\" Off-Road Wheel, Catalytic Converter Shield[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], SR5 Painted BSM Mirror, Off-Road Front Skid Plate, Premium Carpet Mat Set[gst_global_lio_disclaimer], TRD Off-Road Premium Package",
-    "created_at": "2024-11-07 11:30:25"
+    "created_at": "2024-11-08 11:29:30"
   },
   {
     "dealer": "42095",
@@ -1937,7 +2577,27 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": "SR5 Painted BSM Mirror, Connectivity Kit[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], TRD Sport Premium Package, SR5 Convenience Package, Leather-Wrapped Steering Wheel, 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
+  },
+  {
+    "dealer": "42095",
+    "vin": "5TFLA5AB0PX024811",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Celestial Silver Metallic",
+    "interior": "Boulder SofTex&reg; [softex]",
+    "base_msrp": "45420",
+    "total_msrp": "53694.0",
+    "availability_date": null,
+    "total_packages": 8,
+    "packages": "Premium Carpet Mat Set[gst_global_lio_disclaimer], 50 State Emissions, SR5 Painted BSM Mirror, Leather-Wrapped Steering Wheel, SR5 Convenience Package, Connectivity Kit[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], TRD Sport Premium Package",
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42095",
@@ -1957,7 +2617,7 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": "50 State Emissions, Leather-Wrapped Steering Wheel, TRD Sport Premium Package, SR5 Painted BSM Mirror, SR5 Convenience Package, Connectivity Kit[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42095",
@@ -1977,7 +2637,7 @@
     "availability_date": null,
     "total_packages": 8,
     "packages": "SR5 Painted BSM Mirror, 50 State Emissions, SR5 Convenience Package, Leather-Wrapped Steering Wheel, Tailgate Insert - Black[gst_global_lio_disclaimer], TRD Sport Premium Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42095",
@@ -1997,7 +2657,7 @@
     "availability_date": null,
     "total_packages": 11,
     "packages": "Leather-Wrapped Steering Wheel, Vehicle Protection Premium Package[gst_global_lio_disclaimer], SR5 Painted BSM Mirror, TRD Off-Road Premium Package, Tailgate Insert - Black[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Off-Road Front Skid Plate, TRD 18\" Off-Road Wheel, Premium Carpet Mat Set[gst_global_lio_disclaimer], SR5 Convenience Package, 50 State Emissions",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42095",
@@ -2017,7 +2677,27 @@
     "availability_date": null,
     "total_packages": 11,
     "packages": "Leather-Wrapped Steering Wheel, Vehicle Protection Premium Package[gst_global_lio_disclaimer], 50 State Emissions, SR5 Painted BSM Mirror, Premium Carpet Mat Set[gst_global_lio_disclaimer], Off-Road Front Skid Plate, SR5 Convenience Package, TRD Off-Road Premium Package, Catalytic Converter Shield[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], TRD 18\" Off-Road Wheel",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
+  },
+  {
+    "dealer": "42095",
+    "vin": "5TFLA5AB1PX028401",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Celestial Silver Metallic",
+    "interior": "Boulder SofTex&reg; [softex]",
+    "base_msrp": "46520",
+    "total_msrp": "55092.0",
+    "availability_date": null,
+    "total_packages": 11,
+    "packages": "Vehicle Protection Premium Package[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], 50 State Emissions, Off-Road Front Skid Plate, SR5 Painted BSM Mirror, TRD Off-Road Premium Package, Tailgate Insert - Black[gst_global_lio_disclaimer], TRD 18\" Off-Road Wheel, Catalytic Converter Shield[gst_global_lio_disclaimer], Leather-Wrapped Steering Wheel, SR5 Convenience Package",
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42095",
@@ -2037,7 +2717,7 @@
     "availability_date": null,
     "total_packages": 11,
     "packages": "Tailgate Insert - Black[gst_global_lio_disclaimer], SR5 Painted BSM Mirror, Catalytic Converter Shield[gst_global_lio_disclaimer], TRD 18\" Off-Road Wheel, TRD Off-Road Premium Package, Off-Road Front Skid Plate, 50 State Emissions, SR5 Convenience Package, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Leather-Wrapped Steering Wheel, Premium Carpet Mat Set[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42095",
@@ -2057,7 +2737,7 @@
     "availability_date": null,
     "total_packages": 15,
     "packages": "Center Console Safe[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Limited Premium Package, Limited PVM Package, PVM + BSM Outer Mirrors, Premium Carpet Mat Set[gst_global_lio_disclaimer], JBL Premium Audio, Vehicle Protection Premium Package[gst_global_lio_disclaimer], Limited Power Package, Heated Leather Steering Wheel, Tailgate Insert - Black[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Panoramic Roof, Ball Mount[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42095",
@@ -2077,7 +2757,27 @@
     "availability_date": null,
     "total_packages": 15,
     "packages": "Premium Carpet Mat Set[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors, Tailgate Insert - Black[gst_global_lio_disclaimer], Ball Mount[gst_global_lio_disclaimer], Heated Leather Steering Wheel, Connectivity Kit[gst_global_lio_disclaimer], Limited PVM Package, Catalytic Converter Shield[gst_global_lio_disclaimer], Limited Power Package, Center Console Safe[gst_global_lio_disclaimer], 50 State Emissions, Limited Premium Package, Panoramic Roof, Vehicle Protection Premium Package[gst_global_lio_disclaimer], JBL Premium Audio",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
+  },
+  {
+    "dealer": "42095",
+    "vin": "5TFJA5DB2PX097407",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "limited",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Boulder SofTex® [softex]",
+    "base_msrp": "54515",
+    "total_msrp": "62244.0",
+    "availability_date": null,
+    "total_packages": 15,
+    "packages": "PVM + BSM Outer Mirrors, Center Console Safe[gst_global_lio_disclaimer], Limited Power Package, Catalytic Converter Shield[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], JBL Premium Audio, Heated Leather Steering Wheel, Premium Carpet Mat Set[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Panoramic Roof, Limited Premium Package, Ball Mount[gst_global_lio_disclaimer], Limited PVM Package",
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42095",
@@ -2097,7 +2797,7 @@
     "availability_date": null,
     "total_packages": 15,
     "packages": "Ball Mount[gst_global_lio_disclaimer], Heated Leather Steering Wheel, Tailgate Insert - Black[gst_global_lio_disclaimer], 50 State Emissions, Panoramic Roof, Limited Power Package, JBL Premium Audio, Connectivity Kit[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors, Limited PVM Package, Limited Premium Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42095",
@@ -2117,7 +2817,7 @@
     "availability_date": null,
     "total_packages": 15,
     "packages": "PVM + BSM Outer Mirrors, Center Console Safe[gst_global_lio_disclaimer], Limited Premium Package, Limited Power Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], JBL Premium Audio, Ball Mount[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], Heated Leather Steering Wheel, Vehicle Protection Package[gst_global_lio_disclaimer], Limited PVM Package, Panoramic Roof, Integrated Dashcam[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42095",
@@ -2137,7 +2837,7 @@
     "availability_date": null,
     "total_packages": 15,
     "packages": "Ball Mount[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Limited PVM Package, Panoramic Roof, Premium Carpet Mat Set[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], JBL Premium Audio, Integrated Dashcam[gst_global_lio_disclaimer], Limited Premium Package, Limited Power Package, 50 State Emissions, Connectivity Kit[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors, Heated Leather Steering Wheel, Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42095",
@@ -2157,7 +2857,27 @@
     "availability_date": null,
     "total_packages": 15,
     "packages": "Limited PVM Package, Connectivity Kit[gst_global_lio_disclaimer], Heated Leather Steering Wheel, PVM + BSM Outer Mirrors, Panoramic Roof, Integrated Dashcam[gst_global_lio_disclaimer], Limited Power Package, Catalytic Converter Shield[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], 50 State Emissions, JBL Premium Audio, Limited Premium Package, Ball Mount[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:29"
+    "created_at": "2024-11-08 11:29:34"
+  },
+  {
+    "dealer": "42095",
+    "vin": "5TFJA5DB0PX105374",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "limited",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Blueprint",
+    "interior": "Boulder SofTex® [softex]",
+    "base_msrp": "55615",
+    "total_msrp": "63514.0",
+    "availability_date": null,
+    "total_packages": 15,
+    "packages": "PVM + BSM Outer Mirrors, 50 State Emissions, Panoramic Roof, Vehicle Protection Package[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Limited Premium Package, Heated Leather Steering Wheel, JBL Premium Audio, Ball Mount[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Limited Power Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Limited PVM Package",
+    "created_at": "2024-11-08 11:29:34"
   },
   {
     "dealer": "42284",
@@ -2177,7 +2897,7 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "Charging and Connectivity Kit, Integrated Dashcam[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-11-07 11:30:31"
+    "created_at": "2024-11-08 11:29:36"
   },
   {
     "dealer": "42284",
@@ -2197,7 +2917,7 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "50 State Emissions, Integrated Dashcam[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Charging and Connectivity Kit, Catalytic Converter Shield[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:31"
+    "created_at": "2024-11-08 11:29:36"
   },
   {
     "dealer": "42284",
@@ -2217,7 +2937,27 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "Catalytic Converter Shield[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Charging and Connectivity Kit, Integrated Dashcam[gst_global_lio_disclaimer], 50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:31"
+    "created_at": "2024-11-08 11:29:36"
+  },
+  {
+    "dealer": "42284",
+    "vin": "5TFLA5DB4PX106584",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black Fabric",
+    "base_msrp": "49520",
+    "total_msrp": "53541.0",
+    "availability_date": null,
+    "total_packages": 7,
+    "packages": "Integrated Dashcam[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Charging and Connectivity Kit, Vehicle Protection Package[gst_global_lio_disclaimer], 50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer]",
+    "created_at": "2024-11-08 11:29:36"
   },
   {
     "dealer": "42305",
@@ -2237,7 +2977,7 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Charging and Connectivity Kit, Integrated Dashcam[gst_global_lio_disclaimer], 50 State Emissions, Catalytic Converter Shield[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:45"
+    "created_at": "2024-11-08 11:29:50"
   },
   {
     "dealer": "42305",
@@ -2257,7 +2997,7 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Charging and Connectivity Kit, Integrated Dashcam[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:45"
+    "created_at": "2024-11-08 11:29:50"
   },
   {
     "dealer": "42305",
@@ -2277,7 +3017,27 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "50 State Emissions, Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Charging and Connectivity Kit",
-    "created_at": "2024-11-07 11:30:45"
+    "created_at": "2024-11-08 11:29:50"
+  },
+  {
+    "dealer": "42305",
+    "vin": "5TFLA5AB8PX027584",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Blueprint",
+    "interior": "Boulder Fabric",
+    "base_msrp": "46520",
+    "total_msrp": "50667.0",
+    "availability_date": null,
+    "total_packages": 7,
+    "packages": "50 State Emissions, Center Console Safe[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Charging and Connectivity Kit",
+    "created_at": "2024-11-08 11:29:50"
   },
   {
     "dealer": "42305",
@@ -2297,7 +3057,27 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "Vehicle Protection Package[gst_global_lio_disclaimer], Panoramic Roof, Center Console Safe[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Limited Power Package, Integrated Dashcam[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:45"
+    "created_at": "2024-11-08 11:29:50"
+  },
+  {
+    "dealer": "42305",
+    "vin": "5TFJA5AB6PX027848",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "limited",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Celestial Silver Metallic",
+    "interior": "Black SofTex® [softex]",
+    "base_msrp": "52615",
+    "total_msrp": "58496.0",
+    "availability_date": null,
+    "total_packages": 10,
+    "packages": "50 State Emissions, Tailgate Insert - Black[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Integrated Dashcam[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Limited Power Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Panoramic Roof",
+    "created_at": "2024-11-08 11:29:50"
   },
   {
     "dealer": "42305",
@@ -2317,7 +3097,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "Integrated Dashcam[gst_global_lio_disclaimer], Panoramic Roof, Catalytic Converter Shield[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Limited Power Package, 50 State Emissions, Premium Carpet Mat Set[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Connectivity Kit[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:45"
+    "created_at": "2024-11-08 11:29:50"
   },
   {
     "dealer": "42305",
@@ -2337,7 +3117,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "Connectivity Kit[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Panoramic Roof, Integrated Dashcam[gst_global_lio_disclaimer], Center Console Safe[gst_global_lio_disclaimer], Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Package[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Limited Power Package, 50 State Emissions",
-    "created_at": "2024-11-07 11:30:45"
+    "created_at": "2024-11-08 11:29:50"
   },
   {
     "dealer": "42161",
@@ -2357,7 +3137,7 @@
     "availability_date": null,
     "total_packages": 12,
     "packages": "50 State Emissions, Vehicle Protection Premium Package[gst_global_lio_disclaimer], JBL Premium Audio, Limited Power Package, Limited PVM Package, PVM + BSM Outer Mirrors, Catalytic Converter Shield[gst_global_lio_disclaimer], Limited Premium Package, Tailgate Insert - Black[gst_global_lio_disclaimer], Heated Leather Steering Wheel, Panoramic Roof, Premium Carpet Mat Set[gst_global_lio_disclaimer]",
-    "created_at": "2024-11-07 11:30:51"
+    "created_at": "2024-11-08 11:29:56"
   },
   {
     "dealer": "42161",
@@ -2377,7 +3157,27 @@
     "availability_date": null,
     "total_packages": 12,
     "packages": "Limited Power Package, Catalytic Converter Shield[gst_global_lio_disclaimer], Limited PVM Package, PVM + BSM Outer Mirrors, Vehicle Protection Premium Package[gst_global_lio_disclaimer], JBL Premium Audio, Tailgate Insert - Black[gst_global_lio_disclaimer], Panoramic Roof, 50 State Emissions, Heated Leather Steering Wheel, Premium Carpet Mat Set[gst_global_lio_disclaimer], Limited Premium Package",
-    "created_at": "2024-11-07 11:30:51"
+    "created_at": "2024-11-08 11:29:56"
+  },
+  {
+    "dealer": "42161",
+    "vin": "5TFJA5AB0PX027876",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "limited",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "Rear-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Army Green",
+    "interior": "Black SofTex® [softex]",
+    "base_msrp": "52615",
+    "total_msrp": "59787.0",
+    "availability_date": null,
+    "total_packages": 12,
+    "packages": "Tailgate Insert - Black[gst_global_lio_disclaimer], Limited PVM Package, Limited Premium Package, Catalytic Converter Shield[gst_global_lio_disclaimer], PVM + BSM Outer Mirrors, Panoramic Roof, Heated Leather Steering Wheel, 50 State Emissions, Limited Power Package, JBL Premium Audio, Premium Carpet Mat Set[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer]",
+    "created_at": "2024-11-08 11:29:56"
   },
   {
     "dealer": "42161",
@@ -2397,7 +3197,7 @@
     "availability_date": null,
     "total_packages": 12,
     "packages": "50 State Emissions, PVM + BSM Outer Mirrors, Panoramic Roof, Limited PVM Package, Limited Premium Package, Limited Power Package, Premium Carpet Mat Set[gst_global_lio_disclaimer], Catalytic Converter Shield[gst_global_lio_disclaimer], Tailgate Insert - Black[gst_global_lio_disclaimer], Vehicle Protection Premium Package[gst_global_lio_disclaimer], JBL Premium Audio, Heated Leather Steering Wheel",
-    "created_at": "2024-11-07 11:30:51"
+    "created_at": "2024-11-08 11:29:56"
   },
   {
     "dealer": "15059",
@@ -2417,7 +3217,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Special Color",
-    "created_at": "2024-11-07 11:31:12"
+    "created_at": "2024-11-08 11:30:18"
   },
   {
     "dealer": "15059",
@@ -2437,7 +3237,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Special Color, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:31:12"
+    "created_at": "2024-11-08 11:30:18"
   },
   {
     "dealer": "15059",
@@ -2457,7 +3257,47 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Special Color",
-    "created_at": "2024-11-07 11:31:12"
+    "created_at": "2024-11-08 11:30:18"
+  },
+  {
+    "dealer": "15059",
+    "vin": "5TFVC5DB5PX033423",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Supersonic Red [extra_cost_color]",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "77645",
+    "total_msrp": "80218.0",
+    "availability_date": null,
+    "total_packages": 4,
+    "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], Special Color",
+    "created_at": "2024-11-08 11:30:18"
+  },
+  {
+    "dealer": "40009",
+    "vin": "5TFLA5DB7PX099565",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Ice Cap",
+    "interior": "Boulder Fabric",
+    "base_msrp": "48420",
+    "total_msrp": "52104.0",
+    "availability_date": null,
+    "total_packages": 5,
+    "packages": "SR5 Convenience Package, Door Edge Guards - Stainless Steel[installed_msrp], All-Weather Floor Liner Package[installed_msrp], SR5 BSM Outer Mirrors, 50 State Emissions",
+    "created_at": "2024-11-08 11:30:26"
   },
   {
     "dealer": "40009",
@@ -2477,7 +3317,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "SR5 BSM Outer Mirrors, Door Edge Guards - Stainless Steel[installed_msrp], SR5 Convenience Package, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:31:18"
+    "created_at": "2024-11-08 11:30:26"
   },
   {
     "dealer": "40009",
@@ -2497,7 +3337,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "SR5 Convenience Package, Door Edge Guards - Stainless Steel[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, SR5 BSM Outer Mirrors",
-    "created_at": "2024-11-07 11:31:18"
+    "created_at": "2024-11-08 11:30:26"
   },
   {
     "dealer": "40009",
@@ -2517,7 +3357,7 @@
     "availability_date": null,
     "total_packages": 5,
     "packages": "SR5 BSM Outer Mirrors, SR5 Convenience Package, 50 State Emissions, Door Edge Guards - Stainless Steel[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:31:18"
+    "created_at": "2024-11-08 11:30:26"
   },
   {
     "dealer": "14011",
@@ -2537,7 +3377,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Spray-On Bedliner[installed_msrp], , TRD Off-Road Package, OFFROAD FRONT SKID PLATE, PVM + BSM Outer Mirrors, 50 State Emissions",
-    "created_at": "2024-11-07 11:31:54"
+    "created_at": "2024-11-08 11:30:59"
   },
   {
     "dealer": "14011",
@@ -2557,7 +3397,27 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "50 State Emissions, , Spray-On Bedliner[installed_msrp], TRD Off-Road Package, OFFROAD FRONT SKID PLATE, PVM + BSM Outer Mirrors",
-    "created_at": "2024-11-07 11:31:54"
+    "created_at": "2024-11-08 11:30:59"
+  },
+  {
+    "dealer": "14011",
+    "vin": "5TFMC5DB6PX031594",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "1794edition",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Saddle Tan Leather",
+    "base_msrp": "66705",
+    "total_msrp": "71354.0",
+    "availability_date": null,
+    "total_packages": 6,
+    "packages": "50 State Emissions, Spray-On Bedliner[installed_msrp], TRD Off-Road Package, PVM + BSM Outer Mirrors, , OFFROAD FRONT SKID PLATE",
+    "created_at": "2024-11-08 11:30:59"
   },
   {
     "dealer": "14011",
@@ -2577,7 +3437,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "50 State Emissions, PVM + BSM Outer Mirrors, , OFFROAD FRONT SKID PLATE, TRD Off-Road Package, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:31:54"
+    "created_at": "2024-11-08 11:30:59"
   },
   {
     "dealer": "24052",
@@ -2597,7 +3457,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], All-Weather Floor Liner Package[installed_msrp], ",
-    "created_at": "2024-11-07 11:32:43"
+    "created_at": "2024-11-08 11:31:45"
   },
   {
     "dealer": "24052",
@@ -2617,7 +3477,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], ",
-    "created_at": "2024-11-07 11:32:43"
+    "created_at": "2024-11-08 11:31:45"
   },
   {
     "dealer": "24052",
@@ -2637,7 +3497,27 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "All-Weather Floor Liner Package[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], , 50 State Emissions",
-    "created_at": "2024-11-07 11:32:43"
+    "created_at": "2024-11-08 11:31:45"
+  },
+  {
+    "dealer": "24052",
+    "vin": "5TFVC5DB6PX039649",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Midnight Black Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "77645",
+    "total_msrp": "80263.0",
+    "availability_date": null,
+    "total_packages": 4,
+    "packages": "Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], , All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-11-08 11:31:45"
   },
   {
     "dealer": "09226",
@@ -2657,67 +3537,7 @@
     "availability_date": "Now",
     "total_packages": 12,
     "packages": "20\" Nitto Ridge Grappler All-Terrain Tire Upgrade [set_global_lio_disclaimer], Advanced Package -, Power running boards and power bed step, TOYOGUARD Platinum [set_global_lio_disclaimer], Spray-in Bedliner [set_global_lio_disclaimer], SmartLED Ambient Lighting [set_global_lio_disclaimer], Center Console Safe [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-11-07 11:33:58"
-  },
-  {
-    "dealer": "09226",
-    "vin": "5TFNC5DB9PX030377",
-    "year": "2023",
-    "vehicle": "tundra",
-    "model": "platinum",
-    "enginge": "i-FORCE MAX V6 Hybrid",
-    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "CrewMax",
-    "bed": "5.5ft",
-    "color": "Magnetic Gray Metallic",
-    "interior": "Black Leather",
-    "base_msrp": "67505",
-    "total_msrp": "77557.0",
-    "availability_date": "Now",
-    "total_packages": 12,
-    "packages": "20\" Nitto Ridge Grappler All-Terrain Tire Upgrade [set_global_lio_disclaimer], Advanced Package -, Power running boards and power bed step, TOYOGUARD Platinum [set_global_lio_disclaimer], Spray-in Bedliner [set_global_lio_disclaimer], SmartLED Ambient Lighting [set_global_lio_disclaimer], Center Console Safe [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-11-07 11:33:58"
-  },
-  {
-    "dealer": "09226",
-    "vin": "5TFNC5DB9PX030377",
-    "year": "2023",
-    "vehicle": "tundra",
-    "model": "platinum",
-    "enginge": "i-FORCE MAX V6 Hybrid",
-    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "CrewMax",
-    "bed": "5.5ft",
-    "color": "Magnetic Gray Metallic",
-    "interior": "Black Leather",
-    "base_msrp": "67505",
-    "total_msrp": "77557.0",
-    "availability_date": "Now",
-    "total_packages": 12,
-    "packages": "20\" Nitto Ridge Grappler All-Terrain Tire Upgrade [set_global_lio_disclaimer], Advanced Package -, Power running boards and power bed step, TOYOGUARD Platinum [set_global_lio_disclaimer], Spray-in Bedliner [set_global_lio_disclaimer], SmartLED Ambient Lighting [set_global_lio_disclaimer], Center Console Safe [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-11-07 11:33:58"
-  },
-  {
-    "dealer": "09226",
-    "vin": "5TFNC5DB9PX030377",
-    "year": "2023",
-    "vehicle": "tundra",
-    "model": "platinum",
-    "enginge": "i-FORCE MAX V6 Hybrid",
-    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
-    "drivetrain": "4-Wheel Drive",
-    "cab": "CrewMax",
-    "bed": "5.5ft",
-    "color": "Magnetic Gray Metallic",
-    "interior": "Black Leather",
-    "base_msrp": "67505",
-    "total_msrp": "77557.0",
-    "availability_date": "Now",
-    "total_packages": 12,
-    "packages": "20\" Nitto Ridge Grappler All-Terrain Tire Upgrade [set_global_lio_disclaimer], Advanced Package -, Power running boards and power bed step, TOYOGUARD Platinum [set_global_lio_disclaimer], Spray-in Bedliner [set_global_lio_disclaimer], SmartLED Ambient Lighting [set_global_lio_disclaimer], Center Console Safe [set_global_lio_disclaimer], All Weather Floor Mats [set_global_lio_disclaimer], Phone Cable Charge Package [set_global_lio_disclaimer], 6-Gallons of Gas [set_global_lio_disclaimer], SET Digital Portfolio [set_global_lio_disclaimer], 50 State Emissions",
-    "created_at": "2024-11-07 11:33:58"
+    "created_at": "2024-11-08 11:32:56"
   },
   {
     "dealer": "16051",
@@ -2737,7 +3557,7 @@
     "availability_date": null,
     "total_packages": 9,
     "packages": "TRD Front Skid Plate, 50 State Emissions, Spray-On Bedliner[installed_msrp], , BedStep®[installed_msrp], PVM + BSM Outer Mirrors, Dual Step Running Boards - Black[installed_msrp], TRD Off-Road Package, Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2024-11-07 11:35:02"
+    "created_at": "2024-11-08 11:34:04"
   },
   {
     "dealer": "16051",
@@ -2757,7 +3577,27 @@
     "availability_date": null,
     "total_packages": 9,
     "packages": ", Quick Charge Cable Package[installed_msrp], TRD Off-Road Package, Spray-On Bedliner[installed_msrp], 50 State Emissions, PVM + BSM Outer Mirrors, TRD Front Skid Plate, BedStep®[installed_msrp], Dual Step Running Boards - Black[installed_msrp]",
-    "created_at": "2024-11-07 11:35:02"
+    "created_at": "2024-11-08 11:34:04"
+  },
+  {
+    "dealer": "16051",
+    "vin": "5TFMA5DB0PX105341",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "1794edition",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Saddle Tan Leather",
+    "base_msrp": "63360",
+    "total_msrp": "69568.0",
+    "availability_date": null,
+    "total_packages": 9,
+    "packages": "Dual Step Running Boards - Black[installed_msrp], BedStep®[installed_msrp], , TRD Front Skid Plate, PVM + BSM Outer Mirrors, 50 State Emissions, Quick Charge Cable Package[installed_msrp], Spray-On Bedliner[installed_msrp], TRD Off-Road Package",
+    "created_at": "2024-11-08 11:34:04"
   },
   {
     "dealer": "16051",
@@ -2777,7 +3617,7 @@
     "availability_date": null,
     "total_packages": 9,
     "packages": "BedStep®[installed_msrp], TRD Off-Road Package, Quick Charge Cable Package[installed_msrp], 50 State Emissions, PVM + BSM Outer Mirrors, Spray-On Bedliner[installed_msrp], Dual Step Running Boards - Black[installed_msrp], , TRD Front Skid Plate",
-    "created_at": "2024-11-07 11:35:02"
+    "created_at": "2024-11-08 11:34:04"
   },
   {
     "dealer": "41083",
@@ -2797,7 +3637,27 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "50 State Emissions, Power Running Boards, Spray-On Bedliner[installed_msrp], , All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2024-11-07 11:35:25"
+    "created_at": "2024-11-08 11:34:28"
+  },
+  {
+    "dealer": "41083",
+    "vin": "5TFNA5DB4PX106061",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "platinum",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Midnight Black Metallic",
+    "interior": "Black Leather",
+    "base_msrp": "62675",
+    "total_msrp": "66818.0",
+    "availability_date": null,
+    "total_packages": 6,
+    "packages": "Power Running Boards, , 50 State Emissions, Spray-On Bedliner[installed_msrp], Quick Charge Cable Package[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-11-08 11:34:28"
   },
   {
     "dealer": "41083",
@@ -2817,7 +3677,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "50 State Emissions, Power Running Boards, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], ",
-    "created_at": "2024-11-07 11:35:25"
+    "created_at": "2024-11-08 11:34:28"
   },
   {
     "dealer": "41083",
@@ -2837,7 +3697,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Quick Charge Cable Package[installed_msrp], 50 State Emissions, , Power Running Boards, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:35:25"
+    "created_at": "2024-11-08 11:34:28"
   },
   {
     "dealer": "19021",
@@ -2857,7 +3717,7 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "Spray-On Bedliner[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Special Color, , Owner's Portfolio, Advanced Package",
-    "created_at": "2024-11-07 11:36:09"
+    "created_at": "2024-11-08 11:35:19"
   },
   {
     "dealer": "19021",
@@ -2877,7 +3737,7 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "Owner's Portfolio, Spray-On Bedliner[installed_msrp], Advanced Package, 50 State Emissions, , Special Color, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:36:09"
+    "created_at": "2024-11-08 11:35:19"
   },
   {
     "dealer": "19021",
@@ -2897,7 +3757,27 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "All-Weather Floor Liner Package[installed_msrp], Special Color, Owner's Portfolio, Spray-On Bedliner[installed_msrp], , 50 State Emissions, Advanced Package",
-    "created_at": "2024-11-07 11:36:09"
+    "created_at": "2024-11-08 11:35:19"
+  },
+  {
+    "dealer": "19021",
+    "vin": "5TFVC5DB2PX038367",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Supersonic Red [extra_cost_color]",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "77645",
+    "total_msrp": "81468.0",
+    "availability_date": null,
+    "total_packages": 7,
+    "packages": "50 State Emissions, , Advanced Package, Spray-On Bedliner[installed_msrp], Special Color, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio",
+    "created_at": "2024-11-08 11:35:19"
   },
   {
     "dealer": "45074",
@@ -2917,7 +3797,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "Alloy Wheel Locks[installed_msrp], , 50 State Emissions, Quick Charge Cable Package[installed_msrp], Spray-On Bedliner[installed_msrp], Emergency Assistance Kit[installed_msrp], All-Weather Floor Liner Package[installed_msrp], , Owner's Portfolio, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp]",
-    "created_at": "2024-11-07 11:36:11"
+    "created_at": "2024-11-08 11:35:21"
   },
   {
     "dealer": "45074",
@@ -2937,7 +3817,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "Emergency Assistance Kit[installed_msrp], Quick Charge Cable Package[installed_msrp], , All-Weather Floor Liner Package[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 50 State Emissions, Owner's Portfolio, Alloy Wheel Locks[installed_msrp], Spray-On Bedliner[installed_msrp], ",
-    "created_at": "2024-11-07 11:36:11"
+    "created_at": "2024-11-08 11:35:21"
   },
   {
     "dealer": "45074",
@@ -2957,7 +3837,27 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "All-Weather Floor Liner Package[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], , Alloy Wheel Locks[installed_msrp], 50 State Emissions, Emergency Assistance Kit[installed_msrp], , Owner's Portfolio, Spray-On Bedliner[installed_msrp], Quick Charge Cable Package[installed_msrp]",
-    "created_at": "2024-11-07 11:36:11"
+    "created_at": "2024-11-08 11:35:21"
+  },
+  {
+    "dealer": "45074",
+    "vin": "5TFVC5DB5PX031719",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Midnight Black Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "76145",
+    "total_msrp": "79597.0",
+    "availability_date": null,
+    "total_packages": 10,
+    "packages": "Owner's Portfolio, Quick Charge Cable Package[installed_msrp], Emergency Assistance Kit[installed_msrp], , 50 State Emissions, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], , Alloy Wheel Locks[installed_msrp], Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-11-08 11:35:21"
   },
   {
     "dealer": "45045",
@@ -2977,7 +3877,7 @@
     "availability_date": null,
     "total_packages": 18,
     "packages": "Door Edge Guards - Stainless Steel[installed_msrp], Quick Charge Cable Package[installed_msrp], BedStep®[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Limited Premium Package, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Limited PVM Package, Limited Power Package, Heated Leather Steering Wheel, Spray-On Bedliner[installed_msrp], Alloy Wheel Locks[installed_msrp], Dual Step Running Boards - Silver[installed_msrp], JBL Premium Audio, PVM + BSM Outer Mirrors, 50 State Emissions, Panoramic Roof, Exhaust Tip - Chrome[installed_msrp]",
-    "created_at": "2024-11-07 11:36:29"
+    "created_at": "2024-11-08 11:35:37"
   },
   {
     "dealer": "45045",
@@ -2997,7 +3897,27 @@
     "availability_date": null,
     "total_packages": 18,
     "packages": "Panoramic Roof, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, 50 State Emissions, Heated Leather Steering Wheel, Door Edge Guards - Stainless Steel[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Alloy Wheel Locks[installed_msrp], Limited Power Package, Quick Charge Cable Package[installed_msrp], Dual Step Running Boards - Silver[installed_msrp], Limited PVM Package, PVM + BSM Outer Mirrors, BedStep®[installed_msrp], Spray-On Bedliner[installed_msrp], Exhaust Tip - Chrome[installed_msrp], JBL Premium Audio, Limited Premium Package",
-    "created_at": "2024-11-07 11:36:29"
+    "created_at": "2024-11-08 11:35:37"
+  },
+  {
+    "dealer": "45045",
+    "vin": "5TFJA5DB6PX099886",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "limited",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Smoked Mesquite",
+    "interior": "Black SofTex® [softex]",
+    "base_msrp": "54515",
+    "total_msrp": "62871.0",
+    "availability_date": null,
+    "total_packages": 18,
+    "packages": "PVM + BSM Outer Mirrors, Limited Premium Package, Spray-On Bedliner[installed_msrp], 50 State Emissions, Door Edge Guards - Stainless Steel[installed_msrp], Owner's Portfolio, Panoramic Roof, Quick Charge Cable Package[installed_msrp], BedStep®[installed_msrp], Dual Step Running Boards - Silver[installed_msrp], Alloy Wheel Locks[installed_msrp], JBL Premium Audio, Exhaust Tip - Chrome[installed_msrp], Limited PVM Package, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Limited Power Package, All-Weather Floor Liner Package[installed_msrp], Heated Leather Steering Wheel",
+    "created_at": "2024-11-08 11:35:37"
   },
   {
     "dealer": "45045",
@@ -3017,7 +3937,7 @@
     "availability_date": null,
     "total_packages": 18,
     "packages": "Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Door Edge Guards - Stainless Steel[installed_msrp], Limited Premium Package, Limited Power Package, All-Weather Floor Liner Package[installed_msrp], Quick Charge Cable Package[installed_msrp], PVM + BSM Outer Mirrors, Limited PVM Package, JBL Premium Audio, Owner's Portfolio, Spray-On Bedliner[installed_msrp], Panoramic Roof, Dual Step Running Boards - Silver[installed_msrp], Alloy Wheel Locks[installed_msrp], BedStep®[installed_msrp], Heated Leather Steering Wheel, Exhaust Tip - Chrome[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:36:29"
+    "created_at": "2024-11-08 11:35:37"
   },
   {
     "dealer": "07008",
@@ -3037,7 +3957,7 @@
     "availability_date": null,
     "total_packages": 17,
     "packages": "50 State Emissions, Owner's Portfolio, PVM + BSM Outer Mirrors, BedStep®[installed_msrp], TRD Front Skid Plate, Premium Audio Package, Door Edge Guards - Stainless Steel[installed_msrp], Alloy Wheel Locks[installed_msrp], Advanced Off-Road Technology Package, TRD 20\" Off-Road Wheel, Exhaust Tip - Chrome[installed_msrp], Heated Leather-Wrapped Steering Wheel, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], TRD Off-Road Premium Package, Quick Charge Cable Package[installed_msrp], Dual Step Running Boards - Black[installed_msrp]",
-    "created_at": "2024-11-07 11:36:44"
+    "created_at": "2024-11-08 11:35:55"
   },
   {
     "dealer": "07008",
@@ -3057,7 +3977,27 @@
     "availability_date": null,
     "total_packages": 17,
     "packages": "50 State Emissions, Alloy Wheel Locks[installed_msrp], Heated Leather-Wrapped Steering Wheel, Exhaust Tip - Chrome[installed_msrp], Dual Step Running Boards - Black[installed_msrp], Quick Charge Cable Package[installed_msrp], BedStep®[installed_msrp], TRD Off-Road Premium Package, All-Weather Floor Liner Package[installed_msrp], TRD Front Skid Plate, Door Edge Guards - Stainless Steel[installed_msrp], Owner's Portfolio, PVM + BSM Outer Mirrors, Premium Audio Package, Advanced Off-Road Technology Package, TRD 20\" Off-Road Wheel, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:36:44"
+    "created_at": "2024-11-08 11:35:55"
+  },
+  {
+    "dealer": "07008",
+    "vin": "5TFLA5DB6PX106425",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Lunar Rock",
+    "interior": "Boulder SofTex&reg; [softex]",
+    "base_msrp": "48420",
+    "total_msrp": "63592.0",
+    "availability_date": null,
+    "total_packages": 17,
+    "packages": "50 State Emissions, Owner's Portfolio, Exhaust Tip - Chrome[installed_msrp], TRD Front Skid Plate, BedStep®[installed_msrp], Heated Leather-Wrapped Steering Wheel, TRD 20\" Off-Road Wheel, All-Weather Floor Liner Package[installed_msrp], Door Edge Guards - Stainless Steel[installed_msrp], Alloy Wheel Locks[installed_msrp], Advanced Off-Road Technology Package, PVM + BSM Outer Mirrors, TRD Off-Road Premium Package, Quick Charge Cable Package[installed_msrp], Dual Step Running Boards - Black[installed_msrp], Premium Audio Package, Spray-On Bedliner[installed_msrp]",
+    "created_at": "2024-11-08 11:35:55"
   },
   {
     "dealer": "07008",
@@ -3077,7 +4017,7 @@
     "availability_date": null,
     "total_packages": 17,
     "packages": "BedStep®[installed_msrp], Heated Leather-Wrapped Steering Wheel, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Quick Charge Cable Package[installed_msrp], Exhaust Tip - Chrome[installed_msrp], Dual Step Running Boards - Black[installed_msrp], Owner's Portfolio, Door Edge Guards - Stainless Steel[installed_msrp], TRD 20\" Off-Road Wheel, Premium Audio Package, TRD Front Skid Plate, TRD Off-Road Premium Package, Spray-On Bedliner[installed_msrp], Advanced Off-Road Technology Package, PVM + BSM Outer Mirrors",
-    "created_at": "2024-11-07 11:36:44"
+    "created_at": "2024-11-08 11:35:55"
   },
   {
     "dealer": "31121",
@@ -3097,7 +4037,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], All-Weather Floor Liner Package[installed_msrp], PVM + BSM Tow Mirrors",
-    "created_at": "2024-11-07 11:37:29"
+    "created_at": "2024-11-08 11:36:36"
   },
   {
     "dealer": "31121",
@@ -3117,7 +4057,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, PVM + BSM Tow Mirrors, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:37:29"
+    "created_at": "2024-11-08 11:36:36"
   },
   {
     "dealer": "31121",
@@ -3137,7 +4077,27 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "PVM + BSM Tow Mirrors, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
-    "created_at": "2024-11-07 11:37:29"
+    "created_at": "2024-11-08 11:36:36"
+  },
+  {
+    "dealer": "31121",
+    "vin": "5TFVC5DB5PX022647",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Celestial Silver Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "75245",
+    "total_msrp": "77948.0",
+    "availability_date": null,
+    "total_packages": 4,
+    "packages": "PVM + BSM Tow Mirrors, All-Weather Floor Liner Package[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 50 State Emissions",
+    "created_at": "2024-11-08 11:36:36"
   },
   {
     "dealer": "31076",
@@ -3157,7 +4117,27 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Owner's Portfolio, All-Weather Floor Liner Package[installed_msrp], , 50 State Emissions",
-    "created_at": "2024-11-07 11:37:39"
+    "created_at": "2024-11-08 11:36:47"
+  },
+  {
+    "dealer": "31076",
+    "vin": "5TFVC5DB9PX039290",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Midnight Black Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "77645",
+    "total_msrp": "79824.0",
+    "availability_date": null,
+    "total_packages": 4,
+    "packages": "Owner's Portfolio, , All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-11-08 11:36:47"
   },
   {
     "dealer": "31076",
@@ -3177,7 +4157,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, , All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio",
-    "created_at": "2024-11-07 11:37:39"
+    "created_at": "2024-11-08 11:36:47"
   },
   {
     "dealer": "31076",
@@ -3197,7 +4177,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Owner's Portfolio, 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], ",
-    "created_at": "2024-11-07 11:37:39"
+    "created_at": "2024-11-08 11:36:47"
   },
   {
     "dealer": "28036",
@@ -3217,7 +4197,7 @@
     "availability_date": null,
     "total_packages": 12,
     "packages": "Alloy Wheel Locks[installed_msrp], Limited Power Package, Spare Tire Lock[installed_msrp], JBL Premium Audio, Heated Leather Steering Wheel, Dual Step Running Boards - Black[installed_msrp], PVM + BSM Outer Mirrors, Limited Premium Package, Quick Charge Cable Package[installed_msrp], Spray-On Bedliner[installed_msrp], 50 State Emissions, Limited PVM Package",
-    "created_at": "2024-11-07 11:38:33"
+    "created_at": "2024-11-08 11:37:40"
   },
   {
     "dealer": "28036",
@@ -3237,7 +4217,27 @@
     "availability_date": null,
     "total_packages": 12,
     "packages": "Alloy Wheel Locks[installed_msrp], Quick Charge Cable Package[installed_msrp], 50 State Emissions, Limited PVM Package, Limited Premium Package, Spray-On Bedliner[installed_msrp], Limited Power Package, Heated Leather Steering Wheel, JBL Premium Audio, PVM + BSM Outer Mirrors, Dual Step Running Boards - Black[installed_msrp], Spare Tire Lock[installed_msrp]",
-    "created_at": "2024-11-07 11:38:33"
+    "created_at": "2024-11-08 11:37:40"
+  },
+  {
+    "dealer": "28036",
+    "vin": "5TFJA5DB8PX106076",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "limited",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Blueprint",
+    "interior": "Black SofTex® [softex]",
+    "base_msrp": "54515",
+    "total_msrp": "60289.0",
+    "availability_date": null,
+    "total_packages": 12,
+    "packages": "Heated Leather Steering Wheel, Dual Step Running Boards - Black[installed_msrp], JBL Premium Audio, PVM + BSM Outer Mirrors, 50 State Emissions, Limited Power Package, Alloy Wheel Locks[installed_msrp], Limited Premium Package, Quick Charge Cable Package[installed_msrp], Limited PVM Package, Spare Tire Lock[installed_msrp], Spray-On Bedliner[installed_msrp]",
+    "created_at": "2024-11-08 11:37:40"
   },
   {
     "dealer": "28036",
@@ -3257,7 +4257,7 @@
     "availability_date": null,
     "total_packages": 12,
     "packages": "PVM + BSM Outer Mirrors, 50 State Emissions, Quick Charge Cable Package[installed_msrp], Heated Leather Steering Wheel, Alloy Wheel Locks[installed_msrp], Spray-On Bedliner[installed_msrp], JBL Premium Audio, Spare Tire Lock[installed_msrp], Dual Step Running Boards - Black[installed_msrp], Limited Power Package, Limited Premium Package, Limited PVM Package",
-    "created_at": "2024-11-07 11:38:33"
+    "created_at": "2024-11-08 11:37:40"
   },
   {
     "dealer": "20009",
@@ -3277,7 +4277,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "Alloy Wheel Locks[installed_msrp], Advanced Technology Package, TRD Sport Premium Package, All-Weather Floor Liner Package[installed_msrp], PVM + BSM Outer Mirrors, Spare Tire Lock[installed_msrp], 50 State Emissions, Premium Audio Package, Spray-On Bedliner[installed_msrp], Heated Leather-Wrapped Steering Wheel",
-    "created_at": "2024-11-07 11:38:42"
+    "created_at": "2024-11-08 11:37:50"
   },
   {
     "dealer": "20009",
@@ -3297,7 +4297,7 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "PVM + BSM Outer Mirrors, Spare Tire Lock[installed_msrp], Advanced Technology Package, Premium Audio Package, 50 State Emissions, TRD Sport Premium Package, Heated Leather-Wrapped Steering Wheel, All-Weather Floor Liner Package[installed_msrp], Alloy Wheel Locks[installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:38:42"
+    "created_at": "2024-11-08 11:37:50"
   },
   {
     "dealer": "20009",
@@ -3317,7 +4317,27 @@
     "availability_date": null,
     "total_packages": 10,
     "packages": "All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Alloy Wheel Locks[installed_msrp], PVM + BSM Outer Mirrors, Heated Leather-Wrapped Steering Wheel, Spray-On Bedliner[installed_msrp], Premium Audio Package, TRD Sport Premium Package, Spare Tire Lock[installed_msrp], Advanced Technology Package",
-    "created_at": "2024-11-07 11:38:42"
+    "created_at": "2024-11-08 11:37:50"
+  },
+  {
+    "dealer": "20009",
+    "vin": "5TFLA5DBXPX122398",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Midnight Black Metallic",
+    "interior": "Black SofTex&reg; [softex]",
+    "base_msrp": "49520",
+    "total_msrp": "61343.0",
+    "availability_date": null,
+    "total_packages": 10,
+    "packages": "TRD Sport Premium Package, Alloy Wheel Locks[installed_msrp], Advanced Technology Package, Premium Audio Package, Spare Tire Lock[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp], PVM + BSM Outer Mirrors, Heated Leather-Wrapped Steering Wheel, 50 State Emissions",
+    "created_at": "2024-11-08 11:37:50"
   },
   {
     "dealer": "44013",
@@ -3337,7 +4357,7 @@
     "availability_date": null,
     "total_packages": 9,
     "packages": "All-Weather Floor Liner Package[installed_msrp], Spare Tire Lock[installed_msrp], Spray-On Bedliner[installed_msrp], SR5 Convenience Package, SR5 BSM Tow Mirrors, Heated Leather-Wrapped Steering Wheel, TRD Sport Package, 50 State Emissions, Alloy Wheel Locks[installed_msrp]",
-    "created_at": "2024-11-07 11:39:13"
+    "created_at": "2024-11-08 11:38:19"
   },
   {
     "dealer": "44013",
@@ -3357,7 +4377,27 @@
     "availability_date": null,
     "total_packages": 9,
     "packages": "SR5 Convenience Package, Heated Leather-Wrapped Steering Wheel, Spray-On Bedliner[installed_msrp], Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], SR5 BSM Tow Mirrors, Spare Tire Lock[installed_msrp], 50 State Emissions, TRD Sport Package",
-    "created_at": "2024-11-07 11:39:13"
+    "created_at": "2024-11-08 11:38:19"
+  },
+  {
+    "dealer": "44013",
+    "vin": "5TFLA5DA2PX103870",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "Double Cab",
+    "bed": "6.5ft",
+    "color": "Midnight Black Metallic",
+    "interior": "Black Fabric",
+    "base_msrp": "46370",
+    "total_msrp": "54068.0",
+    "availability_date": null,
+    "total_packages": 9,
+    "packages": "Spare Tire Lock[installed_msrp], Heated Leather-Wrapped Steering Wheel, 50 State Emissions, SR5 BSM Tow Mirrors, SR5 Convenience Package, Spray-On Bedliner[installed_msrp], TRD Sport Package, Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
+    "created_at": "2024-11-08 11:38:19"
   },
   {
     "dealer": "44013",
@@ -3377,7 +4417,7 @@
     "availability_date": null,
     "total_packages": 9,
     "packages": "Alloy Wheel Locks[installed_msrp], Heated Leather-Wrapped Steering Wheel, 50 State Emissions, SR5 BSM Tow Mirrors, TRD Sport Package, All-Weather Floor Liner Package[installed_msrp], Spare Tire Lock[installed_msrp], Spray-On Bedliner[installed_msrp], SR5 Convenience Package",
-    "created_at": "2024-11-07 11:39:13"
+    "created_at": "2024-11-08 11:38:19"
   },
   {
     "dealer": "34104",
@@ -3397,7 +4437,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "50 State Emissions, Console Safe[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:40:12"
+    "created_at": "2024-11-08 11:39:23"
   },
   {
     "dealer": "34104",
@@ -3417,7 +4457,7 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Owner's Portfolio, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 50 State Emissions, Console Safe[installed_msrp]",
-    "created_at": "2024-11-07 11:40:12"
+    "created_at": "2024-11-08 11:39:23"
   },
   {
     "dealer": "34104",
@@ -3437,7 +4477,27 @@
     "availability_date": null,
     "total_packages": 6,
     "packages": "Owner's Portfolio, Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], 50 State Emissions, Spray-On Bedliner[installed_msrp], Console Safe[installed_msrp], All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:40:12"
+    "created_at": "2024-11-08 11:39:23"
+  },
+  {
+    "dealer": "34104",
+    "vin": "5TFVC5DB1PX031281",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "76145",
+    "total_msrp": "79552.0",
+    "availability_date": null,
+    "total_packages": 6,
+    "packages": "50 State Emissions, Owner's Portfolio, Spray-On Bedliner[installed_msrp], Paint Protection Film (Hood, Fenders, Door Cups & Mirror Backs)[installed_msrp], All-Weather Floor Liner Package[installed_msrp], Console Safe[installed_msrp]",
+    "created_at": "2024-11-08 11:39:23"
   },
   {
     "dealer": "12156",
@@ -3457,7 +4517,7 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "Alloy Wheel Locks[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, SR5 Convenience Package, Door Edge Guards - Stainless Steel[installed_msrp], SR5 BSM Outer Mirrors, Owner's Portfolio",
-    "created_at": "2024-11-07 11:41:14"
+    "created_at": "2024-11-08 11:40:24"
   },
   {
     "dealer": "12156",
@@ -3477,7 +4537,7 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "Door Edge Guards - Stainless Steel[installed_msrp], Alloy Wheel Locks[installed_msrp], 50 State Emissions, All-Weather Floor Liner Package[installed_msrp], SR5 Convenience Package, SR5 BSM Outer Mirrors, Owner's Portfolio",
-    "created_at": "2024-11-07 11:41:14"
+    "created_at": "2024-11-08 11:40:24"
   },
   {
     "dealer": "12156",
@@ -3497,7 +4557,27 @@
     "availability_date": null,
     "total_packages": 7,
     "packages": "Owner's Portfolio, SR5 BSM Outer Mirrors, Alloy Wheel Locks[installed_msrp], Door Edge Guards - Stainless Steel[installed_msrp], 50 State Emissions, SR5 Convenience Package, All-Weather Floor Liner Package[installed_msrp]",
-    "created_at": "2024-11-07 11:41:14"
+    "created_at": "2024-11-08 11:40:24"
+  },
+  {
+    "dealer": "12156",
+    "vin": "5TFLA5DB1PX087105",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "SR5",
+    "enginge": "i-FORCE V6",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Blueprint",
+    "interior": "Black Fabric",
+    "base_msrp": "48420",
+    "total_msrp": "52184.0",
+    "availability_date": null,
+    "total_packages": 7,
+    "packages": "SR5 BSM Outer Mirrors, Door Edge Guards - Stainless Steel[installed_msrp], SR5 Convenience Package, All-Weather Floor Liner Package[installed_msrp], Owner's Portfolio, 50 State Emissions, Alloy Wheel Locks[installed_msrp]",
+    "created_at": "2024-11-08 11:40:24"
   },
   {
     "dealer": "48065",
@@ -3517,7 +4597,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, Advanced Package, All-Weather Floor Liner Package[installed_msrp], Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:41:35"
+    "created_at": "2024-11-08 11:40:44"
   },
   {
     "dealer": "48065",
@@ -3537,7 +4617,7 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions, Advanced Package",
-    "created_at": "2024-11-07 11:41:35"
+    "created_at": "2024-11-08 11:40:44"
   },
   {
     "dealer": "48065",
@@ -3557,6 +4637,26 @@
     "availability_date": null,
     "total_packages": 4,
     "packages": "50 State Emissions, All-Weather Floor Liner Package[installed_msrp], Advanced Package, Spray-On Bedliner[installed_msrp]",
-    "created_at": "2024-11-07 11:41:35"
+    "created_at": "2024-11-08 11:40:44"
+  },
+  {
+    "dealer": "48065",
+    "vin": "5TFVC5DB2PX026140",
+    "year": "2023",
+    "vehicle": "tundra",
+    "model": "C",
+    "enginge": "i-FORCE MAX V6 Hybrid",
+    "transmission": "10-Speed Electronically Controlled automatic Transmission with intelligence (ECT-i) and sequential shift mode",
+    "drivetrain": "4-Wheel Drive",
+    "cab": "CrewMax",
+    "bed": "5.5ft",
+    "color": "Magnetic Gray Metallic",
+    "interior": "Black and White Semi-Aniline Leather",
+    "base_msrp": "76145",
+    "total_msrp": "79763.0",
+    "availability_date": null,
+    "total_packages": 4,
+    "packages": "Advanced Package, Spray-On Bedliner[installed_msrp], All-Weather Floor Liner Package[installed_msrp], 50 State Emissions",
+    "created_at": "2024-11-08 11:40:44"
   }
 ]
